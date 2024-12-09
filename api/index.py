@@ -237,9 +237,7 @@ def fetch_brands():
 
 from flask import send_from_directory
 
-@app.route('/download_file/<filename>', methods=['GET'])
-def download_file(filename):
-    return send_from_directory('/tmp', filename, as_attachment=True)
+
 
 
 
