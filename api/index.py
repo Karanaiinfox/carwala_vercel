@@ -35,8 +35,8 @@ def get_brand_names():
 
     # Set up the WebDriver
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
-
-    try:
+    print(driver,'driver')
+    if True:
         # Navigate to the website
         url = 'https://www.carwale.com/'  # Replace with actual URL
         driver.get(url)
@@ -59,9 +59,9 @@ def get_brand_names():
         brand_list = driver.find_elements(By.CSS_SELECTOR, "div.o-bqHweY > div > ul > li")
         brand_names = [brand.text.strip() for brand in brand_list if brand.text.strip()]
         return brand_names
-
-    finally:
-        driver.quit()
+    # except:
+    # finally:
+    #     driver.quit()
 import urllib.parse
 
 
