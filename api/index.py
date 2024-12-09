@@ -279,4 +279,4 @@ def fetch_models():
         return jsonify({'success': False, 'message': str(e)})
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=8000)
