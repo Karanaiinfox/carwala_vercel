@@ -249,7 +249,7 @@ def fetch_models():
     selected_brands = data.get('brands', [])
     all_models_data = []
 
-    try:
+    if True:
         for brand_name in selected_brands:
             brand_data = fetch_model_data(brand_name, city_id)
             if brand_data:
@@ -276,7 +276,7 @@ def fetch_models():
         else:
             return jsonify({'success': False, 'message': 'No data found for the selected brands.'})
 
-    except Exception as e:
+    else: #Exception as e:
         return jsonify({'success': False, 'message': str(e)})
 
 if __name__ == '__main__':
