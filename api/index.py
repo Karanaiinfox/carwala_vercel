@@ -252,7 +252,7 @@ def fetch_models():
     selected_brands = data.get('brands', [])
     all_models_data = []
 
-    if True:
+    try:
         for brand_name in selected_brands:
             brand_data = fetch_model_data(brand_name, city_id)
             if brand_data:
@@ -268,7 +268,7 @@ def fetch_models():
             if not os.path.exists(static_folder):
                 os.makedirs(static_folder)
 
-            file_path = os.path.join(static_folder, 'all_models_with_variants.csv')
+            # file_path = os.path.join(static_folder, 'all_models_with_variants.csv')
             # final_df.to_csv(file_path, index=False)
 
             return jsonify({
@@ -279,7 +279,7 @@ def fetch_models():
         else:
             return jsonify({'success': False, 'message': 'No data found for the selected brands.'})
 
-    else: # Exception as e:
+    except Exception as e:
         return jsonify({'success': False, 'message': str(e)})
 
 if __name__ == '__main__':
