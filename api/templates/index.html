@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carwale Data Scraper</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container mt-4">
+        <h1 class="text-center mb-4 head-text">Carwale Data Scraper</h1>
+        <div class="card p-4">
+            <!-- Form -->
+            <form id="scrapeForm">
+                <div class="mb-3">
+                    <label for="city_id" class="form-label">Select City:</label>
+                    <select id="city_id" name="city_id" required class="form-control">
+                        <option value="244">Chandigarh</option>
+                        <option value="235">Mohali, Punjab</option>
+                    </select>
+                </div>
+                <button type="button" id="fetchBrandsBtn" class="btn btn-primary mb-3">Fetch Brands</button>
+                <div id="loader" class="text-center" style="display: none;">
+                    <div class="spinner-border text-primary" role="status">
+                        <span class="visually-hidden">Loading...</span>
+                    </div>
+                </div>
+                <div id="brandsContainer" class="row"></div>
+                <button type="submit" class="btn btn-success">Fetch Models</button>
+            </form>
+        </div>
+
+        <div id="results" class="mt-4" style="display: none;">
+            <div class="d-flex justify-content-between align-items-center">
+                <h2>Fetched Data:</h2>
+                <button id="downloadButton" class="btn btn-outline-primary" style="display: none;">Download CSV</button>
+            </div>
+            <div class="table-responsive mt-3">
+                <input type="text" id="tableSearch" class="form-control mb-2" placeholder="Search in table...">
+                <table id="dataPreview" class="table table-striped table-hover">
+                    <thead class="table-dark">
+                        <tr>
+                            <th onclick="sortTable(0)">Brand Name</th>
+                            <th onclick="sortTable(1)">Model Name</th>
+                            <th onclick="sortTable(2)">Variant Name</th>
+                            <th onclick="sortTable(2)">Ex-Showroom Price</th>
+                            <th onclick="sortTable(2)">On-Road Price</th>
+                            <th onclick="sortTable(3)">Transmission Type</th>
+                            <th onclick="sortTable(4)">Fuel Type</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS Bundle -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+       
+
+        async function fetchBrands() {
+            const loader = document.getElementById('loader');
+            loader.style.display = 'block';
+            try {
+                const response = await fetch('/fetch_brands', { method: 'POST' });
+                const data = await response.json();
+                loader.style.display = 'none';
+        
+                if (data.success) {
+                    const brandsContainer = document.getElementById('brandsContainer');
+                    brandsContainer.innerHTML = '';
+                    const columns = [[], [],[],[]]; // Divide brands into two columns
+                    data.brands.forEach((brand, index) => {
+                        columns[index % 4].push(`
+                            <div class="brand-item" onclick="toggleBrand('${brand}')">
+                                <input type="checkbox" name="brands" value="${brand}" id="${brand}" class="brand-checkbox" style="display: none;">
+                                <span id="label-${brand}" class="brand-label">${brand}</span>
+                            </div>
+                        `);
+                    });
+        
+                    // Create two columns
+                    columns.forEach(col => {
+                        const colDiv = document.createElement('div');
+                        colDiv.className = 'col-md-3 div-set';
+                        colDiv.innerHTML = col.join('');
+                        brandsContainer.appendChild(colDiv);
+                    });
+                } else {
+                    alert(data.message);
+                }
+            } catch (error) {
+                loader.style.display = 'none';
+                alert('Error fetching brands.');
+            }
+        }
+        
+        // Function to toggle the active state of the brand
+        function toggleBrand(brand) {
+            const checkbox = document.getElementById(brand);
+            const label = document.getElementById(`label-${brand}`);
+        
+            // Toggle checkbox state
+            checkbox.checked = !checkbox.checked;
+        
+            // Toggle visual active state
+            label.classList.toggle('active');
+        }
+
+        
+        document.getElementById('fetchBrandsBtn').addEventListener('click', fetchBrands);
+
+        document.getElementById('scrapeForm').onsubmit = async function(event) {
+            event.preventDefault();
+            const loader = document.getElementById('loader');
+            loader.style.display = 'block';
+
+            const cityId = document.getElementById('city_id').value;
+            const selectedBrands = Array.from(document.querySelectorAll('input[name="brands"]:checked')).map(cb => cb.value);
+
+            try {
+                const response = await fetch('/fetch_models', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ city_id: cityId, brands: selectedBrands })
+                });
+                const result = await response.json();
+                loader.style.display = 'none';
+
+                if (result.success) {
+                    // Populate the table
+                    const tableBody = document.getElementById('dataPreview').querySelector('tbody');
+                    tableBody.innerHTML = '';
+                    result.data.forEach(row => {
+                        tableBody.innerHTML += `
+                            <tr>
+                                <td>${row['Brand Name']}</td>
+                                <td>${row['Model Name']}</td>
+                                <td>${row['Variant Name']}</td>
+                                <td> Rs. ${row['Ex-Showroom Price'] || 'N/A'}</td>
+                                <td>${row['On-Road Price'] || 'N/A'}</td>
+                                <td>${row['Transmission Type'] || 'N/A'}</td>
+                                <td>${row['Fuel Type'] || 'N/A'}</td>
+                            </tr>`;
+                    });
+
+                    // Show results section
+                    document.getElementById('results').style.display = 'block';
+
+                    // Update download button
+                    const downloadButton = document.getElementById('downloadButton');
+                    downloadButton.style.display = 'block';
+                    downloadButton.setAttribute('onclick', `window.location.href='${result.file_path}'`);
+                } else {
+                    alert(result.message);
+                }
+            } catch (error) {
+                loader.style.display = 'none';
+                alert('Error fetching models.');
+            }
+        };
+
+        // Search functionality
+        document.getElementById('tableSearch').addEventListener('input', function() {
+            const filter = this.value.toLowerCase();
+            const rows = document.querySelectorAll('#dataPreview tbody tr');
+            rows.forEach(row => {
+                row.style.display = row.textContent.toLowerCase().includes(filter) ? '' : 'none';
+            });
+        });
+
+        // Sort table
+        function sortTable(columnIndex) {
+            const table = document.getElementById('dataPreview');
+            const rows = Array.from(table.rows).slice(1);
+            const sortedRows = rows.sort((a, b) => a.cells[columnIndex].textContent.localeCompare(b.cells[columnIndex].textContent));
+            const tbody = table.querySelector('tbody');
+            tbody.innerHTML = '';
+            sortedRows.forEach(row => tbody.appendChild(row));
+        }
+    </script>
+</body>
+</html>
+

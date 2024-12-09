@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scraped Results</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Scraped Results</h1>
+        <p>The model and variant data have been successfully scraped and saved. You can download the CSV file below:</p>
+        <a href="{{ file_path }}" class="btn">Download CSV</a>
+        <a href="{{ url_for('index') }}" class="btn btn-secondary">Go Back</a>
+    </div>
+</body>
+</html>

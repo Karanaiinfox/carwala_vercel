@@ -1,0 +1,715 @@
+Brand Name,Model Name,Model ID,City,Variant Name,Version ID,Transmission Type,Fuel Type,Ex-Showroom Price,On-Road Price
+Maruti Suzuki,Dzire,2743,235,LXi,17631,Manual,Petrol,679000,Rs. 7.72 Lakh
+Maruti Suzuki,Dzire,2743,235,VXi,17633,Manual,Petrol,779000,Rs. 8.82 Lakh
+Maruti Suzuki,Dzire,2743,235,VXi AMT,17937,Automatic (AMT),Petrol,824000,Rs. 9.35 Lakh
+Maruti Suzuki,Dzire,2743,235,VXi CNG,18809,Manual,CNG,874000,Rs. 9.90 Lakh
+Maruti Suzuki,Dzire,2743,235,ZXi,17635,Manual,Petrol,889000,Rs. 10.07 Lakh
+Maruti Suzuki,Dzire,2743,235,ZXi AMT,17935,Automatic (AMT),Petrol,934000,Rs. 10.57 Lakh
+Maruti Suzuki,Dzire,2743,235,ZXi Plus,17637,Manual,Petrol,968999,Rs. 10.95 Lakh
+Maruti Suzuki,Dzire,2743,235,ZXi CNG,18813,Manual,CNG,984000,Rs. 11.12 Lakh
+Maruti Suzuki,Dzire,2743,235,ZXi Plus AMT,18023,Automatic (AMT),Petrol,1014000,Rs. 11.55 Lakh
+Maruti Suzuki,Fronx,2033,235,Sigma 1.2L MT,11543,Manual,Petrol,751500,Rs. 8.52 Lakh
+Maruti Suzuki,Fronx,2033,235,Delta 1.2L MT,11545,Manual,Petrol,837500,Rs. 9.50 Lakh
+Maruti Suzuki,Fronx,2033,235,Sigma 1.2 CNG,14485,Manual,CNG,846500,Rs. 9.60 Lakh
+Maruti Suzuki,Fronx,2033,235,Delta Plus 1.2L MT,11549,Manual,Petrol,877500,Rs. 9.94 Lakh
+Maruti Suzuki,Fronx,2033,235,Delta 1.2L AGS,11547,Automatic (AMT),Petrol,882500,Rs. 10.00 Lakh
+Maruti Suzuki,Fronx,2033,235,Delta Plus (O) 1.2L MT,17363,Manual,Petrol,893000,Rs. 10.11 Lakh
+Maruti Suzuki,Fronx,2033,235,Delta Plus 1.2L AGS,11551,Automatic (AMT),Petrol,922500,Rs. 10.44 Lakh
+Maruti Suzuki,Fronx,2033,235,Delta 1.2 CNG,14487,Manual,CNG,932500,Rs. 10.55 Lakh
+Maruti Suzuki,Fronx,2033,235,Delta Plus (O) 1.2L AGS,17365,Automatic (AMT),Petrol,938000,Rs. 10.61 Lakh
+Maruti Suzuki,Fronx,2033,235,Delta Plus 1.0 Turbo MT,11553,Manual,Petrol,972500,Rs. 10.92 Lakh
+Maruti Suzuki,Fronx,2033,235,Zeta 1.0L Turbo MT,11555,Manual,Petrol,1055500,Rs. 11.95 Lakh
+Maruti Suzuki,Fronx,2033,235,Alpha 1.0L Turbo MT,11559,Manual,Petrol,1147500,Rs. 12.97 Lakh
+Maruti Suzuki,Fronx,2033,235,Alpha 1.0L Turbo MT Dual Tone,11557,Manual,Petrol,1163500,Rs. 13.15 Lakh
+Maruti Suzuki,Fronx,2033,235,Zeta 1.0L Turbo 6 AT,13337,Automatic (TC),Petrol,1195500,Rs. 13.51 Lakh
+Maruti Suzuki,Fronx,2033,235,Alpha 1.0L Turbo 6 AT,13339,Automatic (TC),Petrol,1287500,Rs. 14.53 Lakh
+Maruti Suzuki,Fronx,2033,235,Alpha 1.0L Turbo 6 AT Dual Tone,11561,Automatic (TC),Petrol,1303500,Rs. 14.71 Lakh
+Maruti Suzuki,Swift,2633,235,LXi,15587,Manual,Petrol,649000,Rs. 7.39 Lakh
+Maruti Suzuki,Swift,2633,235,VXi,15763,Manual,Petrol,729500,Rs. 8.28 Lakh
+Maruti Suzuki,Swift,2633,235,VXi (O),17223,Manual,Petrol,756500,Rs. 8.57 Lakh
+Maruti Suzuki,Swift,2633,235,VXi AMT,17323,Automatic (AMT),Petrol,774501,Rs. 8.77 Lakh
+Maruti Suzuki,Swift,2633,235,VXi (O) AMT,17325,Automatic (AMT),Petrol,801500,Rs. 9.10 Lakh
+Maruti Suzuki,Swift,2633,235,VXi CNG,18229,Manual,CNG,819500,Rs. 9.30 Lakh
+Maruti Suzuki,Swift,2633,235,ZXi,15765,Manual,Petrol,829500,Rs. 9.41 Lakh
+Maruti Suzuki,Swift,2633,235,VXi (O) CNG,18307,Manual,CNG,846501,Rs. 9.60 Lakh
+Maruti Suzuki,Swift,2633,235,ZXi AMT,17329,Automatic (AMT),Petrol,874500,Rs. 9.91 Lakh
+Maruti Suzuki,Swift,2633,235,ZXi Plus,17225,Manual,Petrol,899500,Rs. 10.18 Lakh
+Maruti Suzuki,Swift,2633,235,ZXi Plus Dual Tone,17321,Manual,Petrol,914500,Rs. 10.35 Lakh
+Maruti Suzuki,Swift,2633,235,ZXi CNG,18231,Manual,CNG,919500,Rs. 10.41 Lakh
+Maruti Suzuki,Swift,2633,235,ZXi Plus AMT,17331,Automatic (AMT),Petrol,944501,Rs. 10.68 Lakh
+Maruti Suzuki,Swift,2633,235,ZXi Plus Dual Tone AMT,17333,Automatic (AMT),Petrol,959499,Rs. 10.85 Lakh
+Maruti Suzuki,Grand Vitara,1875,235,Sigma Smart Hybrid,13663,Manual,Petrol,1099000,Rs. 12.39 Lakh
+Maruti Suzuki,Grand Vitara,1875,235,Delta Smart Hybrid,13665,Manual,Petrol,1220000,Rs. 13.73 Lakh
+Maruti Suzuki,Grand Vitara,1875,235,Delta CNG,13689,Manual,CNG,1315000,Rs. 14.78 Lakh
+Maruti Suzuki,Grand Vitara,1875,235,Delta Smart Hybrid AT,13679,Automatic (TC),Petrol,1360000,Rs. 15.28 Lakh
+Maruti Suzuki,Grand Vitara,1875,235,Zeta Smart Hybrid,13667,Manual,Petrol,1401000,Rs. 15.73 Lakh
+Maruti Suzuki,Grand Vitara,1875,235,Zeta CNG,13691,Manual,CNG,1496000,Rs. 16.78 Lakh
+Maruti Suzuki,Grand Vitara,1875,235,Zeta Smart Hybrid AT,13671,Automatic (TC),Petrol,1541000,Rs. 17.53 Lakh
+Maruti Suzuki,Grand Vitara,1875,235,Alpha Smart Hybrid,13669,Manual,Petrol,1551000,Rs. 17.64 Lakh
+Maruti Suzuki,Grand Vitara,1875,235,Alpha Smart Hybrid Dual Tone,13677,Manual,Petrol,1567000,Rs. 17.82 Lakh
+Maruti Suzuki,Grand Vitara,1875,235,Alpha Smart Hybrid AT,13673,Automatic (TC),Petrol,1691000,Rs. 19.20 Lakh
+Maruti Suzuki,Grand Vitara,1875,235,Alpha Smart Hybrid AllGrip,13683,Manual,Petrol,1701000,Rs. 19.32 Lakh
+Maruti Suzuki,Grand Vitara,1875,235,Alpha Smart Hybrid AT Dual Tone,13681,Automatic (TC),Petrol,1707000,Rs. 19.38 Lakh
+Maruti Suzuki,Grand Vitara,1875,235,Alpha Smart Hybrid AllGrip Dual Tone,13675,Manual,Petrol,1717000,Rs. 19.50 Lakh
+Maruti Suzuki,Grand Vitara,1875,235,Zeta Plus Intelligent Hybrid eCVT,13685,Automatic (e-CVT),Hybrid (Electric + Petrol),1833000,Rs. 20.79 Lakh
+Maruti Suzuki,Grand Vitara,1875,235,Zeta Plus Intelligent Hybrid eCVT Dual Tone,11041,Automatic (e-CVT),Hybrid (Electric + Petrol),1859000,Rs. 21.08 Lakh
+Maruti Suzuki,Grand Vitara,1875,235,Alpha Plus Intelligent Hybrid eCVT,13687,Automatic (e-CVT),Hybrid (Electric + Petrol),1993000,Rs. 22.58 Lakh
+Maruti Suzuki,Grand Vitara,1875,235,Alpha Plus Intelligent Hybrid eCVT Dual Tone,11045,Automatic (e-CVT),Hybrid (Electric + Petrol),2009000,Rs. 22.76 Lakh
+Maruti Suzuki,Brezza,1739,235,LXi,13447,Manual,Petrol,834000,Rs. 9.38 Lakh
+Maruti Suzuki,Brezza,1739,235,LXi S-CNG,17311,Manual,CNG,929000,Rs. 10.42 Lakh
+Maruti Suzuki,Brezza,1739,235,VXi,13449,Manual,Petrol,969500,Rs. 10.86 Lakh
+Maruti Suzuki,Brezza,1739,235,VXi S-CNG,17313,Manual,CNG,1064500,Rs. 12.01 Lakh
+Maruti Suzuki,Brezza,1739,235,Vxi AT,13453,Automatic (TC),Petrol,1109500,Rs. 12.51 Lakh
+Maruti Suzuki,Brezza,1739,235,ZXi,13451,Manual,Petrol,1114500,Rs. 12.56 Lakh
+Maruti Suzuki,Brezza,1739,235,Zxi Dual Tone,13455,Manual,Petrol,1130500,Rs. 12.74 Lakh
+Maruti Suzuki,Brezza,1739,235,ZXi S-CNG,17315,Manual,CNG,1209500,Rs. 13.61 Lakh
+Maruti Suzuki,Brezza,1739,235,ZXi S-CNG Dual Tone,17317,Manual,CNG,1225500,Rs. 13.79 Lakh
+Maruti Suzuki,Brezza,1739,235,ZXi AT,13459,Automatic (TC),Petrol,1254500,Rs. 14.11 Lakh
+Maruti Suzuki,Brezza,1739,235,ZXi Plus,13457,Manual,Petrol,1258000,Rs. 14.15 Lakh
+Maruti Suzuki,Brezza,1739,235,Zxi AT Dual Tone,13463,Automatic (TC),Petrol,1270500,Rs. 14.29 Lakh
+Maruti Suzuki,Brezza,1739,235,Zxi Plus Dual Tone,13461,Manual,Petrol,1274000,Rs. 14.33 Lakh
+Maruti Suzuki,Brezza,1739,235,ZXi Plus AT,13465,Automatic (TC),Petrol,1398000,Rs. 15.70 Lakh
+Maruti Suzuki,Brezza,1739,235,Zxi Plus AT Dual Tone,13467,Automatic (TC),Petrol,1414000,Rs. 15.88 Lakh
+Maruti Suzuki,Ertiga,1839,235,LXi (O),13545,Manual,Petrol,869000,Rs. 9.76 Lakh
+Maruti Suzuki,Ertiga,1839,235,VXi (O),13547,Manual,Petrol,983000,Rs. 11.01 Lakh
+Maruti Suzuki,Ertiga,1839,235,VXi (O) CNG,13559,Manual,CNG,1078000,Rs. 12.16 Lakh
+Maruti Suzuki,Ertiga,1839,235,ZXi (O),13549,Manual,Petrol,1093000,Rs. 12.33 Lakh
+Maruti Suzuki,Ertiga,1839,235,VXi AT,13551,Automatic (TC),Petrol,1123000,Rs. 12.66 Lakh
+Maruti Suzuki,Ertiga,1839,235,ZXi Plus,13553,Manual,Petrol,1163000,Rs. 13.10 Lakh
+Maruti Suzuki,Ertiga,1839,235,ZXi (O) CNG,13561,Manual,CNG,1188000,Rs. 13.38 Lakh
+Maruti Suzuki,Ertiga,1839,235,ZXi AT,13555,Automatic (TC),Petrol,1233000,Rs. 13.87 Lakh
+Maruti Suzuki,Ertiga,1839,235,ZXi Plus AT,13557,Automatic (TC),Petrol,1303000,Rs. 14.65 Lakh
+Maruti Suzuki,Baleno,1633,235,Sigma MT,13429,Manual,Petrol,666000,Rs. 7.57 Lakh
+Maruti Suzuki,Baleno,1633,235,Delta MT,13431,Manual,Petrol,750000,Rs. 8.50 Lakh
+Maruti Suzuki,Baleno,1633,235,Delta AGS,13433,Automatic (AMT),Petrol,795000,Rs. 9.00 Lakh
+Maruti Suzuki,Baleno,1633,235,Delta MT CNG,13435,Manual,CNG,840000,Rs. 9.53 Lakh
+Maruti Suzuki,Baleno,1633,235,Zeta MT,13437,Manual,Petrol,843000,Rs. 9.56 Lakh
+Maruti Suzuki,Baleno,1633,235,Zeta AGS,13439,Automatic (AMT),Petrol,888000,Rs. 10.06 Lakh
+Maruti Suzuki,Baleno,1633,235,Zeta MT CNG,13441,Manual,CNG,933000,Rs. 10.55 Lakh
+Maruti Suzuki,Baleno,1633,235,Alpha MT,13443,Manual,Petrol,938000,Rs. 10.61 Lakh
+Maruti Suzuki,Baleno,1633,235,Alpha AGS,13445,Automatic (AMT),Petrol,983000,Rs. 11.11 Lakh
+Maruti Suzuki,Wagon R,1811,235,LXI 1.0,13623,Manual,Petrol,554500,Rs. 6.28 Lakh
+Maruti Suzuki,Wagon R,1811,235,VXI 1.0,13625,Manual,Petrol,599500,Rs. 6.78 Lakh
+Maruti Suzuki,Wagon R,1811,235,ZXI 1.2,13629,Manual,Petrol,628000,Rs. 7.15 Lakh
+Maruti Suzuki,Wagon R,1811,235,LXI 1.0 CNG,13641,Manual,CNG,644500,Rs. 7.27 Lakh
+Maruti Suzuki,Wagon R,1811,235,VXI 1.0 AGS,13627,Automatic (AMT),Petrol,644500,Rs. 7.27 Lakh
+Maruti Suzuki,Wagon R,1811,235,ZXI 1.2 AGS,13631,Automatic (AMT),Petrol,673000,Rs. 7.65 Lakh
+Maruti Suzuki,Wagon R,1811,235,ZXI Plus 1.2,13633,Manual,Petrol,675500,Rs. 7.68 Lakh
+Maruti Suzuki,Wagon R,1811,235,VXI 1.0 CNG,13643,Manual,CNG,689500,Rs. 7.77 Lakh
+Maruti Suzuki,Wagon R,1811,235,ZXI Plus 1.2 Dual Tone,13637,Manual,Petrol,687500,Rs. 7.81 Lakh
+Maruti Suzuki,Wagon R,1811,235,ZXI Plus 1.2 AGS,13635,Automatic (AMT),Petrol,720499,Rs. 8.18 Lakh
+Maruti Suzuki,Wagon R,1811,235,ZXI Plus 1.2 AGS Dual Tone,13639,Automatic (AMT),Petrol,732500,Rs. 8.31 Lakh
+Maruti Suzuki,Alto K10,1963,235,Std (O),18031,Manual,Petrol,399000,Rs. 4.55 Lakh
+Maruti Suzuki,Alto K10,1963,235,LXi (O),18033,Manual,Petrol,483500,Rs. 5.48 Lakh
+Maruti Suzuki,Alto K10,1963,235,VXi (O),18035,Manual,Petrol,506000,Rs. 5.75 Lakh
+Maruti Suzuki,Alto K10,1963,235,VXi Plus (O),18037,Manual,Petrol,535000,Rs. 6.07 Lakh
+Maruti Suzuki,Alto K10,1963,235,VXi (O) AGS,18039,Automatic (AMT),Petrol,551000,Rs. 6.24 Lakh
+Maruti Suzuki,Alto K10,1963,235,LXi (O) S-CNG,18041,Manual,CNG,573500,Rs. 6.49 Lakh
+Maruti Suzuki,Alto K10,1963,235,VXi Plus (O) AGS,18043,Automatic (AMT),Petrol,580000,Rs. 6.56 Lakh
+Maruti Suzuki,Alto K10,1963,235,VXi (O) S-CNG,18045,Manual,CNG,596000,Rs. 6.74 Lakh
+Maruti Suzuki,XL6,1835,235,Zeta MT Petrol,13645,Manual,Petrol,1161000,Rs. 13.08 Lakh
+Maruti Suzuki,XL6,1835,235,Zeta MT CNG,13661,Manual,CNG,1256000,Rs. 14.13 Lakh
+Maruti Suzuki,XL6,1835,235,Alpha MT Petrol,13647,Manual,Petrol,1261000,Rs. 14.18 Lakh
+Maruti Suzuki,XL6,1835,235,Zeta AT Petrol,13649,Automatic (TC),Petrol,1301000,Rs. 14.63 Lakh
+Maruti Suzuki,XL6,1835,235,Alpha Plus MT Petrol,13651,Manual,Petrol,1321000,Rs. 14.85 Lakh
+Maruti Suzuki,XL6,1835,235,Alpha Plus MT Petrol Dual Tone,13653,Manual,Petrol,1337000,Rs. 15.02 Lakh
+Maruti Suzuki,XL6,1835,235,Alpha AT Petrol,13655,Automatic (TC),Petrol,1401000,Rs. 15.73 Lakh
+Maruti Suzuki,XL6,1835,235,Alpha Plus AT Petrol,13657,Automatic (TC),Petrol,1461000,Rs. 16.40 Lakh
+Maruti Suzuki,XL6,1835,235,Alpha Plus AT Petrol Dual Tone,13659,Automatic (TC),Petrol,1477000,Rs. 16.57 Lakh
+Maruti Suzuki,Celerio,1411,235,LXi,13477,Manual,Petrol,536500,Rs. 6.08 Lakh
+Maruti Suzuki,Celerio,1411,235,VXi,13479,Manual,Petrol,583500,Rs. 6.60 Lakh
+Maruti Suzuki,Celerio,1411,235,ZXi,13481,Manual,Petrol,611500,Rs. 6.91 Lakh
+Maruti Suzuki,Celerio,1411,235,VXi AMT,13483,Automatic (AMT),Petrol,628500,Rs. 7.10 Lakh
+Maruti Suzuki,Celerio,1411,235,ZXi AMT,13487,Automatic (AMT),Petrol,656500,Rs. 7.41 Lakh
+Maruti Suzuki,Celerio,1411,235,ZXi Plus,13485,Manual,Petrol,659500,Rs. 7.44 Lakh
+Maruti Suzuki,Celerio,1411,235,VXi CNG,13489,Manual,CNG,673500,Rs. 7.59 Lakh
+Maruti Suzuki,Celerio,1411,235,ZXi Plus AMT,13491,Automatic (AMT),Petrol,704500,Rs. 7.94 Lakh
+Maruti Suzuki,S-Presso,1937,235,Std (O),18118,Manual,Petrol,426500,Rs. 4.85 Lakh
+Maruti Suzuki,S-Presso,1937,235,Lxi (O),18120,Manual,Petrol,501500,Rs. 5.70 Lakh
+Maruti Suzuki,S-Presso,1937,235,VXi (O),18122,Manual,Petrol,521500,Rs. 5.92 Lakh
+Maruti Suzuki,S-Presso,1937,235,Vxi Plus (O),18124,Manual,Petrol,550500,Rs. 6.24 Lakh
+Maruti Suzuki,S-Presso,1937,235,VXi (O) AMT,18126,Automatic (AMT),Petrol,566500,Rs. 6.41 Lakh
+Maruti Suzuki,S-Presso,1937,235,LXi (O) S-CNG,18128,Manual,CNG,591500,Rs. 6.69 Lakh
+Maruti Suzuki,S-Presso,1937,235,VXi Plus (O) AMT,18130,Automatic (AMT),Petrol,595500,Rs. 6.73 Lakh
+Maruti Suzuki,S-Presso,1937,235,VXi (O) S-CNG,18132,Manual,CNG,611500,Rs. 6.91 Lakh
+Maruti Suzuki,Ignis,2363,235,Sigma 1.2 MT,13563,Manual,Petrol,584000,Rs. 6.67 Lakh
+Maruti Suzuki,Ignis,2363,235,Delta 1.2 MT,13565,Manual,Petrol,638000,Rs. 7.26 Lakh
+Maruti Suzuki,Ignis,2363,235,Delta 1.2 AMT,13567,Automatic (AMT),Petrol,683000,Rs. 7.76 Lakh
+Maruti Suzuki,Ignis,2363,235,Zeta 1.2 MT,13569,Manual,Petrol,696000,Rs. 7.90 Lakh
+Maruti Suzuki,Ignis,2363,235,Zeta 1.2 MT Dual Tone,13571,Manual,Petrol,710000,Rs. 8.06 Lakh
+Maruti Suzuki,Ignis,2363,235,Zeta 1.2 AMT,13573,Automatic (AMT),Petrol,741000,Rs. 8.40 Lakh
+Maruti Suzuki,Ignis,2363,235,Zeta 1.2 AMT Dual Tone,13577,Automatic (AMT),Petrol,755000,Rs. 8.56 Lakh
+Maruti Suzuki,Ignis,2363,235,Alpha 1.2 MT,13575,Manual,Petrol,761000,Rs. 8.62 Lakh
+Maruti Suzuki,Ignis,2363,235,Alpha 1.2 MT Dual Tone,13579,Manual,Petrol,775000,Rs. 8.78 Lakh
+Maruti Suzuki,Ignis,2363,235,Alpha 1.2 AMT,13581,Automatic (AMT),Petrol,806000,Rs. 9.15 Lakh
+Maruti Suzuki,Ignis,2363,235,Alpha 1.2 AMT Dual Tone,13583,Automatic (AMT),Petrol,820000,Rs. 9.31 Lakh
+Maruti Suzuki,Jimny,1323,235,Zeta MT,10707,Manual,Petrol,1274000,Rs. 14.33 Lakh
+Maruti Suzuki,Jimny,1323,235,Alpha MT,10711,Manual,Petrol,1369000,Rs. 15.38 Lakh
+Maruti Suzuki,Jimny,1323,235,Zeta AT,10709,Automatic (TC),Petrol,1384000,Rs. 15.54 Lakh
+Maruti Suzuki,Jimny,1323,235,Alpha MT Dual Tone,14333,Manual,Petrol,1385000,Rs. 15.56 Lakh
+Maruti Suzuki,Jimny,1323,235,Alpha AT,10713,Automatic (TC),Petrol,1479000,Rs. 16.59 Lakh
+Maruti Suzuki,Jimny,1323,235,Alpha AT Dual Tone,14335,Automatic (TC),Petrol,1495000,Rs. 16.77 Lakh
+Maruti Suzuki,Ciaz,1061,235,Sigma 1.5,13525,Manual,Petrol,940000,Rs. 10.54 Lakh
+Maruti Suzuki,Ciaz,1061,235,Delta 1.5,13527,Manual,Petrol,1000000,Rs. 11.30 Lakh
+Maruti Suzuki,Ciaz,1061,235,Zeta 1.5,13529,Manual,Petrol,1040000,Rs. 11.74 Lakh
+Maruti Suzuki,Ciaz,1061,235,Delta 1.5 AT,13535,Automatic (TC),Petrol,1110000,Rs. 12.51 Lakh
+Maruti Suzuki,Ciaz,1061,235,Alpha 1.5,13531,Manual,Petrol,1119000,Rs. 12.61 Lakh
+Maruti Suzuki,Ciaz,1061,235,Alpha 1.5 Dual Tone,13537,Manual,Petrol,1135000,Rs. 12.79 Lakh
+Maruti Suzuki,Ciaz,1061,235,Zeta 1.5 AT,13539,Automatic (TC),Petrol,1150000,Rs. 12.96 Lakh
+Maruti Suzuki,Ciaz,1061,235,Alpha 1.5 AT,13541,Automatic (TC),Petrol,1229000,Rs. 13.83 Lakh
+Maruti Suzuki,Ciaz,1061,235,Alpha 1.5 AT Dual Tone,13543,Automatic (TC),Petrol,1245000,Rs. 14.01 Lakh
+Maruti Suzuki,Eeco,2155,235,5 STR STD,13493,Manual,Petrol,532000,Rs. 6.09 Lakh
+Maruti Suzuki,Eeco,2155,235,7 STR STD,13495,Manual,Petrol,561000,Rs. 6.41 Lakh
+Maruti Suzuki,Eeco,2155,235,5 STR AC,13497,Manual,Petrol,568000,Rs. 6.49 Lakh
+Maruti Suzuki,Eeco,2155,235,5 STR AC CNG,13499,Manual,CNG,658000,Rs. 7.48 Lakh
+Maruti Suzuki,Invicto,2491,235,Zeta Plus 7 STR,14361,Automatic (e-CVT),Hybrid (Electric + Petrol),2530500,Rs. 28.82 Lakh
+Maruti Suzuki,Invicto,2491,235,Zeta Plus 8 STR,14457,Automatic (e-CVT),Hybrid (Electric + Petrol),2535500,Rs. 28.87 Lakh
+Maruti Suzuki,Invicto,2491,235,Alpha Plus 7 STR,14363,Automatic (e-CVT),Hybrid (Electric + Petrol),2901500,Rs. 32.97 Lakh
+Mahindra,Be 6,2085,235,Pack One,18955,Automatic,Electric,1890000,Rs. 20.03 Lakh
+Mahindra,XEV 9e,2035,235,Pack One,18957,Automatic,Electric,2190000,Rs. 23.17 Lakh
+Mahindra,XUV 3XO,2595,235,MX1 1.2 Petrol,17101,Manual,Petrol,779000,Rs. 8.82 Lakh
+Mahindra,XUV 3XO,2595,235,MX2 Pro 1.2 Petrol,17103,Manual,Petrol,923999,Rs. 10.46 Lakh
+Mahindra,XUV 3XO,2595,235,MX3 1.2 Petrol,17131,Manual,Petrol,974000,Rs. 11.01 Lakh
+Mahindra,XUV 3XO,2595,235,MX2 1.5 Diesel,17105,Manual,Diesel,998999,Rs. 11.27 Lakh
+Mahindra,XUV 3XO,2595,235,MX3 Pro 1.2 Petrol,17133,Manual,Petrol,999000,Rs. 11.28 Lakh
+Mahindra,XUV 3XO,2595,235,MX2 Pro 1.2 Petrol AT,17109,Automatic (TC),Petrol,1023999,Rs. 11.66 Lakh
+Mahindra,XUV 3XO,2595,235,MX2 Pro 1.5 Diesel,17153,Manual,Diesel,1048999,Rs. 11.93 Lakh
+Mahindra,XUV 3XO,2595,235,MX3 1.5 Diesel,17155,Manual,Diesel,1098999,Rs. 12.49 Lakh
+Mahindra,XUV 3XO,2595,235,AX5 1.2 Petrol,17137,Manual,Petrol,1099000,Rs. 12.50 Lakh
+Mahindra,XUV 3XO,2595,235,MX3 1.2 Petrol AT,17111,Automatic (TC),Petrol,1123999,Rs. 12.78 Lakh
+Mahindra,XUV 3XO,2595,235,MX3 Pro 1.5 Diesel,17159,Manual,Diesel,1139000,Rs. 12.93 Lakh
+Mahindra,XUV 3XO,2595,235,MX3 Pro 1.2 Petrol AT,17135,Automatic (TC),Petrol,1149000,Rs. 13.06 Lakh
+Mahindra,XUV 3XO,2595,235,MX3 1.5 Diesel Autoshift Plus,17157,Automatic (AMT),Diesel,1178999,Rs. 13.38 Lakh
+Mahindra,XUV 3XO,2595,235,AX5 1.5 Diesel,17161,Manual,Diesel,1218999,Rs. 13.83 Lakh
+Mahindra,XUV 3XO,2595,235,AX5L 1.2 Petrol,17141,Manual,Petrol,1223999,Rs. 13.89 Lakh
+Mahindra,XUV 3XO,2595,235,AX7 1.2 Petrol,17145,Manual,Petrol,1249000,Rs. 14.17 Lakh
+Mahindra,XUV 3XO,2595,235,AX5 1.2 Petrol AT,17139,Automatic (TC),Petrol,1249000,Rs. 14.17 Lakh
+Mahindra,XUV 3XO,2595,235,AX5 1.5 Diesel Autoshift Plus,17163,Automatic (AMT),Diesel,1298999,Rs. 14.72 Lakh
+Mahindra,XUV 3XO,2595,235,AX7 1.5 Diesel,17165,Manual,Diesel,1368999,Rs. 15.50 Lakh
+Mahindra,XUV 3XO,2595,235,AX5L 1.2 Petrol AT,17143,Automatic (TC),Petrol,1373999,Rs. 15.57 Lakh
+Mahindra,XUV 3XO,2595,235,AX7 1.2 Petrol AT,17151,Automatic (TC),Petrol,1399000,Rs. 15.85 Lakh
+Mahindra,XUV 3XO,2595,235,AX7L 1.2 Petrol,17147,Manual,Petrol,1399000,Rs. 15.85 Lakh
+Mahindra,XUV 3XO,2595,235,AX7 1.5 Diesel Autoshift Plus,17167,Automatic (AMT),Diesel,1449000,Rs. 16.39 Lakh
+Mahindra,XUV 3XO,2595,235,AX7L 1.5 Diesel,17169,Manual,Diesel,1499000,Rs. 16.95 Lakh
+Mahindra,XUV 3XO,2595,235,AX7L 1.2 Petrol AT,17149,Automatic (TC),Petrol,1549000,Rs. 17.80 Lakh
+Mahindra,Thar Roxx,1901,235,MX1 Petrol MT 2WD,17939,Manual,Petrol,1299000,Rs. 14.80 Lakh
+Mahindra,Thar Roxx,1901,235,MX1 Diesel MT 2WD,11391,Manual,Diesel,1399000,Rs. 16.33 Lakh
+Mahindra,Thar Roxx,1901,235,MX3 Petrol AT 2WD,11389,Automatic (TC),Petrol,1499000,Rs. 17.02 Lakh
+Mahindra,Thar Roxx,1901,235,MX5 Petrol MT 2WD,17957,Manual,Petrol,1649000,Rs. 18.94 Lakh
+Mahindra,Thar Roxx,1901,235,MX3 Diesel MT 2WD,17941,Manual,Diesel,1599000,Rs. 18.96 Lakh
+Mahindra,Thar Roxx,1901,235,MX5 Diesel MT 2WD,17953,Manual,Diesel,1699000,Rs. 20.12 Lakh
+Mahindra,Thar Roxx,1901,235,AX3 L Diesel MT 2WD,17943,Manual,Diesel,1699000,Rs. 20.12 Lakh
+Mahindra,Thar Roxx,1901,235,MX5 Petrol AT 2WD,17947,Automatic (TC),Petrol,1799000,Rs. 20.62 Lakh
+Mahindra,Thar Roxx,1901,235,MX3 Diesel AT 2WD,17945,Automatic (TC),Diesel,1749000,Rs. 20.70 Lakh
+Mahindra,Thar Roxx,1901,235,MX5 Diesel AT 2WD,17951,Automatic (TC),Diesel,1849000,Rs. 21.86 Lakh
+Mahindra,Thar Roxx,1901,235,MX5 Diesel MT 4WD,17983,Manual,Diesel,1879000,Rs. 22.20 Lakh
+Mahindra,Thar Roxx,1901,235,AX7 L Diesel MT 2WD,17955,Manual,Diesel,1899000,Rs. 22.43 Lakh
+Mahindra,Thar Roxx,1901,235,AX5 L Diesel AT 2WD,17949,Automatic (TC),Diesel,1899000,Rs. 22.43 Lakh
+Mahindra,Thar Roxx,1901,235,AX7 L Petrol AT 2WD,17979,Automatic (TC),Petrol,1999000,Rs. 22.86 Lakh
+Mahindra,Thar Roxx,1901,235,AX7 L Diesel AT 2WD,17981,Automatic (TC),Diesel,2049000,Rs. 24.17 Lakh
+Mahindra,Thar Roxx,1901,235,AX7 L Diesel MT 4WD,17987,Manual,Diesel,2099000,Rs. 24.75 Lakh
+Mahindra,Thar Roxx,1901,235,AX5 L Diesel AT 4WD,17985,Automatic (TC),Diesel,2099000,Rs. 24.75 Lakh
+Mahindra,Thar Roxx,1901,235,AX7 L Diesel AT 4WD,17989,Automatic (TC),Diesel,2249000,Rs. 26.49 Lakh
+Mahindra,Scorpio N,1264,235,Z2 Petrol MT 7 STR,12941,Manual,Petrol,1385200,Rs. 15.76 Lakh
+Mahindra,Scorpio N,1264,235,Z2 Petrol MT 7 STR (ESP),12943,Manual,Petrol,1435199,Rs. 16.31 Lakh
+Mahindra,Scorpio N,1264,235,Z2 Diesel MT 7 STR,12963,Manual,Diesel,1424700,Rs. 16.62 Lakh
+Mahindra,Scorpio N,1264,235,Z2 Diesel MT 7 STR (ESP),12965,Manual,Diesel,1474701,Rs. 17.19 Lakh
+Mahindra,Scorpio N,1264,235,Z4 Petrol MT 7 STR,12945,Manual,Petrol,1548701,Rs. 17.81 Lakh
+Mahindra,Scorpio N,1264,235,Z4 Petrol MT 7 STR (ESP),12947,Manual,Petrol,1598700,Rs. 18.37 Lakh
+Mahindra,Scorpio N,1264,235,Z4 Diesel MT 2WD 7 STR,12967,Manual,Diesel,1589801,Rs. 18.86 Lakh
+Mahindra,Scorpio N,1264,235,Z4 Diesel MT 2WD 7 STR (ESP),12969,Manual,Diesel,1639800,Rs. 19.43 Lakh
+Mahindra,Scorpio N,1264,235,Z4 Petrol AT 7 STR,12949,Automatic (TC),Petrol,1705201,Rs. 19.57 Lakh
+Mahindra,Scorpio N,1264,235,Z8 Select Petrol MT,17617,Manual,Petrol,1719000,Rs. 19.72 Lakh
+Mahindra,Scorpio N,1264,235,Z6 Diesel MT 2WD 7 STR,12971,Manual,Diesel,1686001,Rs. 19.97 Lakh
+Mahindra,Scorpio N,1264,235,Z4 Diesel AT 2WD 7 STR,12973,Automatic (TC),Diesel,1755200,Rs. 20.77 Lakh
+Mahindra,Scorpio N,1264,235,Z4 Diesel MT 4WD 7 STR,12975,Manual,Diesel,1800801,Rs. 21.30 Lakh
+Mahindra,Scorpio N,1264,235,Z8 Select Petrol AT,17619,Automatic (TC),Petrol,1869000,Rs. 21.40 Lakh
+Mahindra,Scorpio N,1264,235,Z8 Select Diesel MT 2WD,17621,Manual,Diesel,1819001,Rs. 21.51 Lakh
+Mahindra,Scorpio N,1264,235,Z8 Petrol MT 7 STR,17585,Manual,Petrol,1884401,Rs. 21.58 Lakh
+Mahindra,Scorpio N,1264,235,Z4 Diesel MT 4WD 7 STR (ESP),12979,Manual,Diesel,1850799,Rs. 21.88 Lakh
+Mahindra,Scorpio N,1264,235,Z6 Diesel AT 2WD 7 STR,12977,Automatic (TC),Diesel,1854601,Rs. 21.92 Lakh
+Mahindra,Scorpio N,1264,235,Z8 Select Diesel AT 2WD,17623,Automatic (TC),Diesel,1919001,Rs. 22.67 Lakh
+Mahindra,Scorpio N,1264,235,Z8 Diesel MT 2WD 7 STR,17597,Manual,Diesel,1929700,Rs. 22.79 Lakh
+Mahindra,Scorpio N,1264,235,Z8 Petrol AT 7 STR,17589,Automatic (TC),Petrol,2035000,Rs. 23.26 Lakh
+Mahindra,Scorpio N,1264,235,Z8 L Petrol MT 7 STR,17587,Manual,Petrol,2054500,Rs. 23.48 Lakh
+Mahindra,Scorpio N,1264,235,Z8 L Petrol MT 6 STR,17591,Manual,Petrol,2078800,Rs. 23.75 Lakh
+Mahindra,Scorpio N,1264,235,Z8 Diesel AT 2WD 7 STR,17601,Automatic (TC),Diesel,2083000,Rs. 24.56 Lakh
+Mahindra,Scorpio N,1264,235,Z8 L Diesel MT 2WD 7 STR,17599,Manual,Diesel,2094899,Rs. 24.70 Lakh
+Mahindra,Scorpio N,1264,235,Z8 L Petrol AT 7 STR,17593,Automatic (TC),Petrol,2196200,Rs. 25.07 Lakh
+Mahindra,Scorpio N,1264,235,Z8 L Diesel MT 2WD 6 STR,17603,Manual,Diesel,2128800,Rs. 25.09 Lakh
+Mahindra,Scorpio N,1264,235,Z8 Diesel MT 4WD 7 STR,17605,Manual,Diesel,2136700,Rs. 25.19 Lakh
+Mahindra,Scorpio N,1264,235,Z8 L Petrol AT 6 STR,17595,Automatic (TC),Petrol,2214700,Rs. 25.28 Lakh
+Mahindra,Scorpio N,1264,235,Z8 L Diesel AT 2WD 7 STR,17607,Automatic (TC),Diesel,2241100,Rs. 26.39 Lakh
+Mahindra,Scorpio N,1264,235,Z8 L Diesel AT 2WD 6 STR,17609,Automatic (TC),Diesel,2264701,Rs. 26.67 Lakh
+Mahindra,Scorpio N,1264,235,Z8 L Diesel MT 4WD 7 STR,17611,Manual,Diesel,2298100,Rs. 27.05 Lakh
+Mahindra,Scorpio N,1264,235,Z8 Diesel AT 4WD 7 STR,17613,Automatic (TC),Diesel,2309100,Rs. 27.18 Lakh
+Mahindra,Scorpio N,1264,235,Z8 L Diesel AT 4WD 7 STR,17615,Automatic (TC),Diesel,2454100,Rs. 28.86 Lakh
+Mahindra,XUV700,1290,235,MX Petrol MT 5 STR,16215,Manual,Petrol,1399001,Rs. 15.91 Lakh
+Mahindra,XUV700,1290,235,MX Petrol MT 5 STR (ESP),16295,Manual,Petrol,1448999,Rs. 16.46 Lakh
+Mahindra,XUV700,1290,235,MX Petrol MT 7 STR,17303,Manual,Petrol,1449000,Rs. 16.46 Lakh
+Mahindra,XUV700,1290,235,MX Diesel MT 5 STR,16233,Manual,Diesel,1459000,Rs. 17.01 Lakh
+Mahindra,XUV700,1290,235,MX Petrol MT 7 STR (ESP),17305,Manual,Petrol,1499000,Rs. 17.02 Lakh
+Mahindra,XUV700,1290,235,MX Diesel MT 7 STR,17307,Manual,Diesel,1499000,Rs. 17.47 Lakh
+Mahindra,XUV700,1290,235,MX Diesel MT 5 STR (ESP),16303,Manual,Diesel,1509000,Rs. 17.92 Lakh
+Mahindra,XUV700,1290,235,MX Diesel MT 7 STR (ESP),17309,Manual,Diesel,1549000,Rs. 18.38 Lakh
+Mahindra,XUV700,1290,235,AX3 Petrol MT 5 STR,16217,Manual,Petrol,1639000,Rs. 18.82 Lakh
+Mahindra,XUV700,1290,235,AX5 Select Petrol MT 7 STR,17383,Manual,Petrol,1689000,Rs. 19.38 Lakh
+Mahindra,XUV700,1290,235,AX3 Petrol MT 5 STR (ESP),16297,Manual,Petrol,1689001,Rs. 19.38 Lakh
+Mahindra,XUV700,1290,235,AX5 Select Petrol MT 7 STR (ESP),17689,Manual,Petrol,1738998,Rs. 19.95 Lakh
+Mahindra,XUV700,1290,235,AX3 Diesel MT 5 STR,16235,Manual,Diesel,1699000,Rs. 20.12 Lakh
+Mahindra,XUV700,1290,235,AX5 Petrol MT 5 STR,16219,Manual,Petrol,1769000,Rs. 20.28 Lakh
+Mahindra,XUV700,1290,235,AX3 Petrol AT 5 STR,16221,Automatic (TC),Petrol,1799000,Rs. 20.62 Lakh
+Mahindra,XUV700,1290,235,AX3 Diesel MT 5 STR (ESP),16305,Manual,Diesel,1748998,Rs. 20.70 Lakh
+Mahindra,XUV700,1290,235,AX5 Select Diesel MT 7 STR,17385,Manual,Diesel,1749000,Rs. 20.70 Lakh
+Mahindra,XUV700,1290,235,AX5 Petrol MT 7 STR,16223,Manual,Petrol,1819000,Rs. 20.84 Lakh
+Mahindra,XUV700,1290,235,AX5 Petrol MT 5 STR (ESP),16299,Manual,Petrol,1819000,Rs. 20.84 Lakh
+Mahindra,XUV700,1290,235,AX5 Select Petrol AT 7 STR,17687,Automatic (TC),Petrol,1849000,Rs. 21.18 Lakh
+Mahindra,XUV700,1290,235,AX5 Select Diesel MT 7 STR (ESP),17691,Manual,Diesel,1798998,Rs. 21.28 Lakh
+Mahindra,XUV700,1290,235,AX5 Petrol MT 7 STR (ESP),16301,Manual,Petrol,1868999,Rs. 21.40 Lakh
+Mahindra,XUV700,1290,235,AX5 Diesel MT 5 STR,16239,Manual,Diesel,1829000,Rs. 21.62 Lakh
+Mahindra,XUV700,1290,235,AX3 Diesel AT 5 STR,16241,Automatic (TC),Diesel,1858999,Rs. 21.97 Lakh
+Mahindra,XUV700,1290,235,AX5 Petrol AT 5 STR,16225,Automatic (TC),Petrol,1929000,Rs. 22.07 Lakh
+Mahindra,XUV700,1290,235,AX5 Diesel MT 7 STR,16243,Manual,Diesel,1878999,Rs. 22.20 Lakh
+Mahindra,XUV700,1290,235,AX7 Petrol MT 7 STR,16227,Manual,Petrol,1949000,Rs. 22.30 Lakh
+Mahindra,XUV700,1290,235,AX5 Select Diesel AT 7 STR,17685,Automatic (TC),Diesel,1899000,Rs. 22.43 Lakh
+Mahindra,XUV700,1290,235,AX7 Petrol MT 7 STR Dual Tone,17709,Manual,Petrol,1964000,Rs. 22.47 Lakh
+Mahindra,XUV700,1290,235,AX7 Petrol MT 6 STR,16261,Manual,Petrol,1968999,Rs. 22.52 Lakh
+Mahindra,XUV700,1290,235,AX5 Petrol AT 7 STR,17707,Automatic (TC),Petrol,1978999,Rs. 22.64 Lakh
+Mahindra,XUV700,1290,235,AX7 Petrol MT 6 STR Dual Tone,17711,Manual,Petrol,1983999,Rs. 22.69 Lakh
+Mahindra,XUV700,1290,235,AX5 Diesel AT 5 STR,16245,Automatic (TC),Diesel,1989000,Rs. 23.48 Lakh
+Mahindra,XUV700,1290,235,AX7 Diesel MT 7 STR,16249,Manual,Diesel,1999000,Rs. 23.59 Lakh
+Mahindra,XUV700,1290,235,AX7 Diesel MT 7 STR Dual Tone,17721,Manual,Diesel,2013999,Rs. 23.77 Lakh
+Mahindra,XUV700,1290,235,AX7 Diesel MT 6 STR,16267,Manual,Diesel,2019000,Rs. 23.82 Lakh
+Mahindra,XUV700,1290,235,AX7 Diesel MT 6 STR Dual Tone,17723,Manual,Diesel,2033999,Rs. 24.00 Lakh
+Mahindra,XUV700,1290,235,AX5 Diesel AT 7 STR,16247,Automatic (TC),Diesel,2038999,Rs. 24.06 Lakh
+Mahindra,XUV700,1290,235,AX7 Petrol AT 7 STR,16229,Automatic (TC),Petrol,2129000,Rs. 24.32 Lakh
+Mahindra,XUV700,1290,235,AX7 Petrol AT 7 STR Dual Tone,17713,Automatic (TC),Petrol,2144000,Rs. 24.48 Lakh
+Mahindra,XUV700,1290,235,AX7 Petrol AT 6 STR,16263,Automatic (TC),Petrol,2148999,Rs. 24.54 Lakh
+Mahindra,XUV700,1290,235,AX7 Petrol AT 6 STR Dual Tone,17715,Automatic (TC),Petrol,2163999,Rs. 24.71 Lakh
+Mahindra,XUV700,1290,235,AX7 Diesel AT 7 STR,16251,Automatic (TC),Diesel,2189000,Rs. 25.79 Lakh
+Mahindra,XUV700,1290,235,AX7 Diesel AT 7 STR Dual Tone,17725,Automatic (TC),Diesel,2204000,Rs. 25.97 Lakh
+Mahindra,XUV700,1290,235,AX7 Diesel AT 6 STR,16269,Automatic (TC),Diesel,2209000,Rs. 26.02 Lakh
+Mahindra,XUV700,1290,235,AX7 Diesel AT 6 STR Dual Tone,17727,Automatic (TC),Diesel,2224000,Rs. 26.20 Lakh
+Mahindra,XUV700,1290,235,AX7 Luxury Pack Diesel 7 STR Blaze Editon MT,17229,Manual,Diesel,2273999,Rs. 26.78 Lakh
+Mahindra,XUV700,1290,235,AX7 Luxury Pack Diesel MT 7 STR,16253,Manual,Diesel,2279000,Rs. 26.83 Lakh
+Mahindra,XUV700,1290,235,AX7 Luxury Pack Petrol 7 STR Blaze Editon AT,17227,Automatic (TC),Petrol,2364001,Rs. 26.95 Lakh
+Mahindra,XUV700,1290,235,AX7 Luxury Pack Diesel MT 7 STR Dual Tone,17729,Manual,Diesel,2294000,Rs. 27.01 Lakh
+Mahindra,XUV700,1290,235,AX7 Luxury Pack Diesel MT 6 STR,16271,Manual,Diesel,2299000,Rs. 27.06 Lakh
+Mahindra,XUV700,1290,235,AX7 Luxury Pack Petrol AT 7 STR,16231,Automatic (TC),Petrol,2378999,Rs. 27.12 Lakh
+Mahindra,XUV700,1290,235,AX7 Diesel AT AWD 7 STR,16255,Automatic (TC),Diesel,2309001,Rs. 27.18 Lakh
+Mahindra,XUV700,1290,235,AX7 Luxury Pack Diesel MT 6 STR Dual Tone,17731,Manual,Diesel,2314000,Rs. 27.24 Lakh
+Mahindra,XUV700,1290,235,AX7 Luxury Pack Petrol AT 7 STR Dual Tone,17717,Automatic (TC),Petrol,2393999,Rs. 27.29 Lakh
+Mahindra,XUV700,1290,235,AX7 Luxury Pack Petrol AT 6 STR,16265,Automatic (TC),Petrol,2399000,Rs. 27.34 Lakh
+Mahindra,XUV700,1290,235,AX7 Diesel AT AWD 7 STR Dual Tone,17733,Automatic (TC),Diesel,2324001,Rs. 27.35 Lakh
+Mahindra,XUV700,1290,235,AX7 Luxury Pack Petrol AT 6 STR Dual Tone,17719,Automatic (TC),Petrol,2414000,Rs. 27.51 Lakh
+Mahindra,XUV700,1290,235,AX7 Luxury Pack Diesel 7 STR Blaze Editon AT,17231,Automatic (TC),Diesel,2414000,Rs. 28.40 Lakh
+Mahindra,XUV700,1290,235,AX7 Luxury Pack Diesel AT 7 STR,16257,Automatic (TC),Diesel,2449000,Rs. 28.80 Lakh
+Mahindra,XUV700,1290,235,AX7 Luxury Pack Diesel AT 7 STR Dual Tone,17735,Automatic (TC),Diesel,2464000,Rs. 28.97 Lakh
+Mahindra,XUV700,1290,235,AX7 Luxury Pack Diesel AT 6 STR,16273,Automatic (TC),Diesel,2468999,Rs. 29.03 Lakh
+Mahindra,XUV700,1290,235,AX7 Luxury Pack Diesel AT 6 STR Dual Tone,17737,Automatic (TC),Diesel,2483999,Rs. 29.21 Lakh
+Mahindra,XUV700,1290,235,AX7 Luxury Pack Diesel AT AWD 7 STR,16259,Automatic (TC),Diesel,2548999,Rs. 29.96 Lakh
+Mahindra,XUV700,1290,235,AX7 Luxury Pack Diesel AT AWD 7 STR Dual Tone,17739,Automatic (TC),Diesel,2563999,Rs. 30.13 Lakh
+Mahindra,Scorpio,1985,235,S MT 7STR,13001,Manual,Diesel,1361600,Rs. 15.90 Lakh
+Mahindra,Scorpio,1985,235,S MT 9STR,13005,Manual,Diesel,1386600,Rs. 16.19 Lakh
+Mahindra,Scorpio,1985,235,S11 MT 7S CC,13007,Manual,Diesel,1734800,Rs. 20.53 Lakh
+Mahindra,Scorpio,1985,235,S11 MT 7S,13003,Manual,Diesel,1741801,Rs. 20.62 Lakh
+Mahindra,Thar,1260,235,AX (O) Hard Top Diesel MT RWD,13269,Manual,Diesel,1135000,Rs. 12.89 Lakh
+Mahindra,Thar,1260,235,LX Hard Top Diesel MT RWD,13271,Manual,Diesel,1285000,Rs. 14.56 Lakh
+Mahindra,Thar,1260,235,LX Hard Top Petrol AT RWD,13259,Automatic (TC),Petrol,1409900,Rs. 16.03 Lakh
+Mahindra,Thar,1260,235,AX (O) Convertible Top Petrol MT 4WD,13261,Manual,Petrol,1430000,Rs. 16.25 Lakh
+Mahindra,Thar,1260,235,LX Hard Top Petrol MT 4WD,13263,Manual,Petrol,1500001,Rs. 17.27 Lakh
+Mahindra,Thar,1260,235,AX (O) Convertible Top Diesel MT 4WD,13273,Manual,Diesel,1485000,Rs. 17.31 Lakh
+Mahindra,Thar,1260,235,AX (O) Hard Top Diesel MT 4WD,13275,Manual,Diesel,1499899,Rs. 17.48 Lakh
+Mahindra,Thar,1260,235,Earth Edition Petrol MT 4WD,16473,Manual,Petrol,1540000,Rs. 17.71 Lakh
+Mahindra,Thar,1260,235,Earth Editon Diesel MT 4WD,16477,Manual,Diesel,1615000,Rs. 18.53 Lakh
+Mahindra,Thar,1260,235,LX Convertible Top Diesel MT 4WD,13277,Manual,Diesel,1574900,Rs. 18.68 Lakh
+Mahindra,Thar,1260,235,LX Hard Top Diesel MT 4WD,13279,Manual,Diesel,1575001,Rs. 18.68 Lakh
+Mahindra,Thar,1260,235,LX Convertible Top Petrol AT 4WD,13265,Automatic (TC),Petrol,1649901,Rs. 18.95 Lakh
+Mahindra,Thar,1260,235,LX Hard Top Petrol AT 4WD,13267,Automatic (TC),Petrol,1659800,Rs. 19.06 Lakh
+Mahindra,Thar,1260,235,Earth Editon Petrol AT 4WD,16475,Automatic (TC),Petrol,1699000,Rs. 19.50 Lakh
+Mahindra,Thar,1260,235,LX Convertible Top Diesel AT 4WD,13281,Automatic (TC),Diesel,1714900,Rs. 20.30 Lakh
+Mahindra,Thar,1260,235,LX Hard Top Diesel AT 4WD,13283,Automatic (TC),Diesel,1720001,Rs. 20.36 Lakh
+Mahindra,Thar,1260,235,Earth Editon Diesel AT 4WD,16479,Automatic (TC),Diesel,1760000,Rs. 20.83 Lakh
+Mahindra,Bolero,2063,235,B4,12827,Manual,Diesel,979399,Rs. 11.06 Lakh
+Mahindra,Bolero,2063,235,B6,12829,Manual,Diesel,999900,Rs. 11.28 Lakh
+Mahindra,Bolero,2063,235,B6 (O),12831,Manual,Diesel,1090599,Rs. 12.39 Lakh
+Mahindra,Bolero Neo Plus,2381,235,P4,15241,Manual,Diesel,1139000,Rs. 13.37 Lakh
+Mahindra,Bolero Neo Plus,2381,235,P10,15245,Manual,Diesel,1249000,Rs. 14.62 Lakh
+Mahindra,Bolero Neo,2065,235,N4,12833,Manual,Diesel,994600,Rs. 11.23 Lakh
+Mahindra,Bolero Neo,2065,235,N8,12835,Manual,Diesel,1063801,Rs. 12.10 Lakh
+Mahindra,Bolero Neo,2065,235,N10,12837,Manual,Diesel,1147500,Rs. 13.03 Lakh
+Mahindra,Bolero Neo,2065,235,N10 (O),12839,Manual,Diesel,1215500,Rs. 13.79 Lakh
+Mahindra,XUV400,1321,235,EC Pro 34.5 KWH,16153,Automatic,Electric,1549000,Rs. 16.46 Lakh
+Mahindra,XUV400,1321,235,EL Pro 34.5 KWH,16155,Automatic,Electric,1674000,Rs. 17.77 Lakh
+Mahindra,XUV400,1321,235,EL Pro 34.5 KWH Dual Tone,16349,Automatic,Electric,1694000,Rs. 17.98 Lakh
+Mahindra,XUV400,1321,235,EL Pro 39.4 KWH,16157,Automatic,Electric,1749000,Rs. 18.55 Lakh
+Mahindra,XUV400,1321,235,EL Pro 39.4 KWH Dual Tone,16347,Automatic,Electric,1769000,Rs. 18.76 Lakh
+Mahindra,Marazzo,1365,235,M2 7 STR,14375,Manual,Diesel,1459400,Rs. 16.82 Lakh
+Mahindra,Marazzo,1365,235,M2 8 STR,14377,Manual,Diesel,1459400,Rs. 16.82 Lakh
+Mahindra,Marazzo,1365,235,M4 Plus 7 STR,14379,Manual,Diesel,1586001,Rs. 18.61 Lakh
+Mahindra,Marazzo,1365,235,M4 Plus 8 STR,14381,Manual,Diesel,1594200,Rs. 18.71 Lakh
+Mahindra,Marazzo,1365,235,M6 Plus 7 STR,14383,Manual,Diesel,1692001,Rs. 19.84 Lakh
+Mahindra,Marazzo,1365,235,M6 Plus 8 STR,14385,Manual,Diesel,1700200,Rs. 19.93 Lakh
+Tata,Curvv,2269,235,Smart 1.2 Revotron Petrol 6MT,15565,Manual,Petrol,999000,Rs. 11.21 Lakh
+Tata,Curvv,2269,235,Pure Plus 1.2 Revotron Petrol 6MT,17831,Manual,Petrol,1099000,Rs. 12.42 Lakh
+Tata,Curvv,2269,235,Pure Plus S 1.2 Revotron Petrol 6MT,17833,Manual,Petrol,1169990,Rs. 13.20 Lakh
+Tata,Curvv,2269,235,Smart 1.5 Kryojet Diesel 6MT,17693,Manual,Diesel,1149000,Rs. 13.29 Lakh
+Tata,Curvv,2269,235,Creative 1.2 Revotron Petrol 6MT,17835,Manual,Petrol,1219000,Rs. 13.74 Lakh
+Tata,Curvv,2269,235,Pure Plus 1.2 Revotron Petrol 7DCA,17843,Automatic (DCT),Petrol,1249000,Rs. 14.08 Lakh
+Tata,Curvv,2269,235,Creative S 1.2 Revotron Petrol 6MT,17839,Manual,Petrol,1269000,Rs. 14.30 Lakh
+Tata,Curvv,2269,235,Pure Plus 1.5 Kryojet Diesel 6MT,17875,Manual,Diesel,1249000,Rs. 14.43 Lakh
+Tata,Curvv,2269,235,Pure Plus S 1.2 Revotron Petrol 7DCA,17845,Automatic (DCT),Petrol,1319990,Rs. 14.86 Lakh
+Tata,Curvv,2269,235,Pure Plus S 1.5 Kryojet Diesel 6MT,17877,Manual,Diesel,1319990,Rs. 15.23 Lakh
+Tata,Curvv,2269,235,Creative Plus S 1.2 Revotron Petrol 6MT,17837,Manual,Petrol,1369000,Rs. 15.41 Lakh
+Tata,Curvv,2269,235,Creative 1.2 Revotron Petrol 7DCA,17847,Automatic (DCT),Petrol,1369990,Rs. 15.42 Lakh
+Tata,Curvv,2269,235,Creative S 1.2 Hyperion GDI Petrol 6MT,17849,Manual,Petrol,1399000,Rs. 15.71 Lakh
+Tata,Curvv,2269,235,Creative 1.5 Kryojet Diesel 6MT,17879,Manual,Diesel,1369000,Rs. 15.79 Lakh
+Tata,Curvv,2269,235,Creative S 1.2 Revotron Petrol 7DCA,17853,Automatic (DCT),Petrol,1419990,Rs. 15.97 Lakh
+Tata,Curvv,2269,235,Pure Plus 1.5 Kryojet Diesel 7DCA,17889,Automatic (DCT),Diesel,1399000,Rs. 16.13 Lakh
+Tata,Curvv,2269,235,Creative S 1.5 Kryojet Diesel 6MT,17881,Manual,Diesel,1419000,Rs. 16.36 Lakh
+Tata,Curvv,2269,235,Accomplished S 1.2 Revotron Petrol 6MT,17841,Manual,Petrol,1469000,Rs. 16.51 Lakh
+Tata,Curvv,2269,235,Creative Plus S 1.2 Hyperion GDI Petrol 6MT,17863,Manual,Petrol,1499000,Rs. 16.82 Lakh
+Tata,Curvv,2269,235,Pure Plus S 1.5 Kryojet Diesel 7DCA,17891,Automatic (DCT),Diesel,1469990,Rs. 16.94 Lakh
+Tata,Curvv,2269,235,Creative Plus S 1.2 Revotron Petrol 7DCA,17855,Automatic (DCT),Petrol,1519990,Rs. 17.33 Lakh
+Tata,Curvv,2269,235,Creative Plus S 1.5 Kryojet Diesel 6MT,17883,Manual,Diesel,1519000,Rs. 17.84 Lakh
+Tata,Curvv,2269,235,Accomplished S 1.2 Hyperion GDI Petrol 6MT,17865,Manual,Petrol,1599000,Rs. 18.17 Lakh
+Tata,Curvv,2269,235,Creative S 1.5 Kryojet Diesel 7DCA,17893,Automatic (DCT),Diesel,1569990,Rs. 18.43 Lakh
+Tata,Curvv,2269,235,Accomplished S 1.2 Revotron Petrol 7DCA,17859,Automatic (DCT),Petrol,1619990,Rs. 18.45 Lakh
+Tata,Curvv,2269,235,Creative Plus S 1.2 Hyperion GDI Petrol 7DCA,17869,Automatic (DCT),Petrol,1649990,Rs. 18.75 Lakh
+Tata,Curvv,2269,235,Accomplished S 1.5 Kryojet Diesel 6MT,17885,Manual,Diesel,1619000,Rs. 18.99 Lakh
+Tata,Curvv,2269,235,Creative Plus S 1.5 Kryojet Diesel 7DCA,17895,Automatic (DCT),Diesel,1669990,Rs. 19.58 Lakh
+Tata,Curvv,2269,235,Accomplished Plus A 1.2 Hyperion GDI Petrol 6MT,17867,Manual,Petrol,1749000,Rs. 19.85 Lakh
+Tata,Curvv,2269,235,Accomplished S 1.2 Hyperion GDI Petrol 7DCA,17871,Automatic (DCT),Petrol,1749990,Rs. 19.86 Lakh
+Tata,Curvv,2269,235,Accomplished Plus A 1.5 Kryojet Diesel 6MT,17887,Manual,Diesel,1769000,Rs. 20.73 Lakh
+Tata,Curvv,2269,235,Accomplished S 1.5 Kryojet Diesel 7DCA,17897,Automatic (DCT),Diesel,1769990,Rs. 20.74 Lakh
+Tata,Curvv,2269,235,Accomplished Plus A 1.2 Hyperion GDI Petrol 7DCA,17873,Automatic (DCT),Petrol,1899990,Rs. 21.54 Lakh
+Tata,Curvv,2269,235,Accomplished Plus A 1.5 Kryojet Diesel 7DCA,17899,Automatic (DCT),Diesel,1899990,Rs. 22.24 Lakh
+Tata,Punch,1238,235,Pure MT,18365,Manual,Petrol,612900,Rs. 6.99 Lakh
+Tata,Punch,1238,235,Pure (O),18371,Manual,Petrol,669900,Rs. 7.62 Lakh
+Tata,Punch,1238,235,Adventure MT,18367,Manual,Petrol,699900,Rs. 7.95 Lakh
+Tata,Punch,1238,235,Pure iCNG,18403,Manual,CNG,722900,Rs. 8.20 Lakh
+Tata,Punch,1238,235,Adventure Rhythm,18369,Manual,Petrol,734900,Rs. 8.33 Lakh
+Tata,Punch,1238,235,Adventure AMT,18413,Automatic (AMT),Petrol,759900,Rs. 8.61 Lakh
+Tata,Punch,1238,235,Adventure (S),18373,Manual,Petrol,759900,Rs. 8.61 Lakh
+Tata,Punch,1238,235,Adventure Rhythm AMT,18385,Automatic (AMT),Petrol,794900,Rs. 9.00 Lakh
+Tata,Punch,1238,235,Adventure iCNG,18401,Manual,CNG,794900,Rs. 9.00 Lakh
+Tata,Punch,1238,235,Adventure Plus (S),18375,Manual,Petrol,809900,Rs. 9.19 Lakh
+Tata,Punch,1238,235,Adventure (S) AMT,18387,Automatic (AMT),Petrol,819900,Rs. 9.30 Lakh
+Tata,Punch,1238,235,Adventure Rhythm iCNG,18399,Manual,CNG,829900,Rs. 9.42 Lakh
+Tata,Punch,1238,235,Accomplished Plus,18377,Manual,Petrol,829900,Rs. 9.42 Lakh
+Tata,Punch,1238,235,Accomplished Plus Camo Edition MT,18609,Manual,Petrol,844900,Rs. 9.58 Lakh
+Tata,Punch,1238,235,Adventure (S) iCNG,18405,Manual,CNG,854900,Rs. 9.69 Lakh
+Tata,Punch,1238,235,Adventure Plus (S) AMT,18397,Automatic (AMT),Petrol,869900,Rs. 9.86 Lakh
+Tata,Punch,1238,235,Accomplished Plus (S),18379,Manual,Petrol,879900,Rs. 9.97 Lakh
+Tata,Punch,1238,235,Accomplished Plus AMT,18389,Automatic (AMT),Petrol,889900,Rs. 10.08 Lakh
+Tata,Punch,1238,235,Accomplsihed Plus (S) Camo Edition MT,18611,Manual,Petrol,894900,Rs. 10.13 Lakh
+Tata,Punch,1238,235,Creative Plus,18381,Manual,Petrol,899900,Rs. 10.19 Lakh
+Tata,Punch,1238,235,Adventure Plus (S) iCNG,18407,Manual,CNG,904900,Rs. 10.24 Lakh
+Tata,Punch,1238,235,Accomplished Plus Camo Edition AMT,18601,Automatic (AMT),Petrol,904900,Rs. 10.24 Lakh
+Tata,Punch,1238,235,Creative Plus Camo Edition MT,18613,Manual,Petrol,914900,Rs. 10.35 Lakh
+Tata,Punch,1238,235,Accomplished Plus (S) AMT,18391,Automatic (AMT),Petrol,939900,Rs. 10.63 Lakh
+Tata,Punch,1238,235,Accomplished Plus iCNG,18409,Manual,CNG,939900,Rs. 10.63 Lakh
+Tata,Punch,1238,235,Creative Plus (S),18383,Manual,Petrol,944900,Rs. 10.69 Lakh
+Tata,Punch,1238,235,Accomplished Plus (S) Camo Edition AMT,18603,Automatic (AMT),Petrol,954900,Rs. 10.80 Lakh
+Tata,Punch,1238,235,Creative Plus (S) Camo Edition MT,18615,Manual,Petrol,959900,Rs. 10.85 Lakh
+Tata,Punch,1238,235,Creative Plus AMT,18393,Automatic (AMT),Petrol,959900,Rs. 10.85 Lakh
+Tata,Punch,1238,235,Creative Plus Camo Edition AMT,18605,Automatic (AMT),Petrol,974900,Rs. 11.02 Lakh
+Tata,Punch,1238,235,Accomplished Plus (S) iCNG,18411,Manual,CNG,989900,Rs. 11.18 Lakh
+Tata,Punch,1238,235,Creative Plus (S) AMT,18395,Automatic (AMT),Petrol,999900,Rs. 11.29 Lakh
+Tata,Punch,1238,235,Creative Plus (S) Camo Edition AMT,18607,Automatic (AMT),Petrol,1014900,Rs. 11.56 Lakh
+Tata,Nexon,2333,235,Smart (O) 1.2 Petrol 5MT,17397,Manual,Petrol,799990,Rs. 9.05 Lakh
+Tata,Nexon,2333,235,Smart Plus 1.2 Petrol 5MT,15027,Manual,Petrol,869990,Rs. 9.86 Lakh
+Tata,Nexon,2333,235,Smart (O) 1.2 iCNG,18447,Manual,CNG,899000,Rs. 10.18 Lakh
+Tata,Nexon,2333,235,Smart Plus (S) 1.2 Petrol 5MT,15029,Manual,Petrol,899990,Rs. 10.19 Lakh
+Tata,Nexon,2333,235,Smart Plus 1.2 Petrol 6AMT,16643,Automatic (AMT),Petrol,949990,Rs. 10.74 Lakh
+Tata,Nexon,2333,235,Smart Plus 1.2 iCNG,18449,Manual,CNG,969000,Rs. 10.95 Lakh
+Tata,Nexon,2333,235,Pure 1.2 Petrol 6MT,14827,Manual,Petrol,969990,Rs. 10.96 Lakh
+Tata,Nexon,2333,235,Smart Plus S 1.2 iCNG,18451,Manual,CNG,999000,Rs. 11.28 Lakh
+Tata,Nexon,2333,235,Smart Plus 1.5 Diesel 5MT,17399,Manual,Diesel,999990,Rs. 11.28 Lakh
+Tata,Nexon,2333,235,Pure (S) 1.2 Petrol 6MT,14973,Manual,Petrol,999990,Rs. 11.30 Lakh
+Tata,Nexon,2333,235,Pure 1.2 Petrol 6AMT,16645,Automatic (AMT),Petrol,1039990,Rs. 11.84 Lakh
+Tata,Nexon,2333,235,Smart Plus (S) 1.5 Diesel 5MT,17401,Manual,Diesel,1049990,Rs. 11.94 Lakh
+Tata,Nexon,2333,235,Pure 1.2 iCNG,16421,Manual,CNG,1069000,Rs. 12.17 Lakh
+Tata,Nexon,2333,235,Creative 1.2 Petrol 6MT,14829,Manual,Petrol,1069990,Rs. 12.18 Lakh
+Tata,Nexon,2333,235,Pure (S) 1.2 Petrol 6AMT,16647,Automatic (AMT),Petrol,1069990,Rs. 12.18 Lakh
+Tata,Nexon,2333,235,Creative 1.2 Petrol 6MT Dual Tone,14977,Manual,Petrol,1079990,Rs. 12.29 Lakh
+Tata,Nexon,2333,235,Pure 1.5 Diesel 6MT,14877,Manual,Diesel,1099990,Rs. 12.50 Lakh
+Tata,Nexon,2333,235,Pure S 1.2 iCNG,18453,Manual,CNG,1099990,Rs. 12.51 Lakh
+Tata,Nexon,2333,235,Creative 1.2 Petrol 6MT Dark Edition,16529,Manual,Petrol,1099990,Rs. 12.51 Lakh
+Tata,Nexon,2333,235,Creative Plus 1.2 Petrol 6MT,14987,Manual,Petrol,1119990,Rs. 12.73 Lakh
+Tata,Nexon,2333,235,Pure (S) 1.5 Diesel 6MT,14975,Manual,Diesel,1129990,Rs. 12.83 Lakh
+Tata,Nexon,2333,235,Creative Plus 1.2 Petrol 6MT Dual Tone,14989,Manual,Petrol,1129990,Rs. 12.85 Lakh
+Tata,Nexon,2333,235,Creative 1.2 Petrol 6AMT,14825,Automatic (AMT),Petrol,1139990,Rs. 12.96 Lakh
+Tata,Nexon,2333,235,Creative Plus (S) 1.2 Petrol 6MT,14991,Manual,Petrol,1149990,Rs. 13.07 Lakh
+Tata,Nexon,2333,235,Creative 1.2 Petrol 6AMT Dual Tone,14979,Automatic (AMT),Petrol,1149990,Rs. 13.07 Lakh
+Tata,Nexon,2333,235,Creative Plus 1.2 Petrol 6MT Dark Edition,16535,Manual,Petrol,1164990,Rs. 13.24 Lakh
+Tata,Nexon,2333,235,Pure 1.5 Diesel 6AMT,16651,Automatic (AMT),Diesel,1169990,Rs. 13.28 Lakh
+Tata,Nexon,2333,235,Creative 1.2 iCNG,16423,Manual,CNG,1169000,Rs. 13.28 Lakh
+Tata,Nexon,2333,235,Creative Plus (S) 1.2 Petrol 6MT Dual Tone,14993,Manual,Petrol,1169990,Rs. 13.29 Lakh
+Tata,Nexon,2333,235,Creative 1.2 Petrol 6AMT Dark Edition,16531,Automatic (AMT),Petrol,1169990,Rs. 13.29 Lakh
+Tata,Nexon,2333,235,Creative 1.2 iCNG Dual Tone,18485,Manual,CNG,1179990,Rs. 13.40 Lakh
+Tata,Nexon,2333,235,Creative 1.2 Petrol 7DCA,14831,Automatic (DCT),Petrol,1189990,Rs. 13.52 Lakh
+Tata,Nexon,2333,235,Creative Plus 1.2 Petrol 6AMT,14995,Automatic (AMT),Petrol,1189990,Rs. 13.52 Lakh
+Tata,Nexon,2333,235,Creative Plus (S) 1.2 Petrol 6MT Dark Edition,16543,Manual,Petrol,1189990,Rs. 13.52 Lakh
+Tata,Nexon,2333,235,Pure (S) 1.5 Diesel 6AMT,16653,Automatic (AMT),Diesel,1199990,Rs. 13.61 Lakh
+Tata,Nexon,2333,235,Creative 1.2 Petrol 7DCA Dual Tone,14981,Automatic (DCT),Petrol,1199990,Rs. 13.63 Lakh
+Tata,Nexon,2333,235,Creative Plus 1.2 Petrol 6AMT Dual Tone,14997,Automatic (AMT),Petrol,1199990,Rs. 13.63 Lakh
+Tata,Nexon,2333,235,Creative 1.5 Diesel 6MT,14879,Manual,Diesel,1209990,Rs. 13.73 Lakh
+Tata,Nexon,2333,235,Creative 1.5 Diesel 6MT Dual Tone,14983,Manual,Diesel,1219990,Rs. 13.84 Lakh
+Tata,Nexon,2333,235,Creative Plus 1.2 iCNG,18455,Manual,CNG,1219000,Rs. 13.84 Lakh
+Tata,Nexon,2333,235,Creative Plus (S) 1.2 Petrol 6AMT,14999,Automatic (AMT),Petrol,1219990,Rs. 13.85 Lakh
+Tata,Nexon,2333,235,Creative 1.2 Petrol 7DCA Dark Edition,16533,Automatic (DCT),Petrol,1219990,Rs. 13.85 Lakh
+Tata,Nexon,2333,235,Fearless Purple 1.2 Petrol 6MT Dual Tone,14833,Manual,Petrol,1229990,Rs. 13.96 Lakh
+Tata,Nexon,2333,235,Creative Plus 1.2 iCNG Dual Tone,18487,Manual,CNG,1229990,Rs. 13.96 Lakh
+Tata,Nexon,2333,235,Fearless 1.2 Petrol 6MT Dual Tone,15035,Manual,Petrol,1229990,Rs. 13.96 Lakh
+Tata,Nexon,2333,235,Creative Plus 1.2  Petrol 6AMT Dark Edition,16539,Automatic (AMT),Petrol,1234990,Rs. 14.02 Lakh
+Tata,Nexon,2333,235,Creative 1.5 Diesel 6MT Dark Edition,16559,Manual,Diesel,1239990,Rs. 14.06 Lakh
+Tata,Nexon,2333,235,Creative Plus 1.2 Petrol 7DCA,15003,Automatic (DCT),Petrol,1239990,Rs. 14.07 Lakh
+Tata,Nexon,2333,235,Creative Plus (S) 1.2 Petrol 6AMT Dual Tone,15001,Automatic (AMT),Petrol,1239990,Rs. 14.07 Lakh
+Tata,Nexon,2333,235,Creative Plus 1.2 Petrol 7DCA Dual Tone,15005,Automatic (DCT),Petrol,1249990,Rs. 14.18 Lakh
+Tata,Nexon,2333,235,Creative Plus 1.5 Diesel 6MT,15011,Manual,Diesel,1259990,Rs. 14.28 Lakh
+Tata,Nexon,2333,235,Creative Plus (S) 1.2 Petrol 6AMT Dark Edition,16541,Automatic (AMT),Petrol,1259990,Rs. 14.30 Lakh
+Tata,Nexon,2333,235,Fearless 1.2 Petrol 6MT Dark Edition,16551,Manual,Petrol,1264990,Rs. 14.35 Lakh
+Tata,Nexon,2333,235,Creative 1.5 Diesel 6AMT,14883,Automatic (AMT),Diesel,1269990,Rs. 14.39 Lakh
+Tata,Nexon,2333,235,Creative Plus 1.5 Diesel 6MT Dual Tone,15013,Manual,Diesel,1269990,Rs. 14.39 Lakh
+Tata,Nexon,2333,235,Creative Plus (S) 1.2 Petrol 7DCA,15007,Automatic (DCT),Petrol,1269990,Rs. 14.41 Lakh
+Tata,Nexon,2333,235,Creative 1.5 Diesel 6AMT Dual Tone,14985,Automatic (AMT),Diesel,1279990,Rs. 14.51 Lakh
+Tata,Nexon,2333,235,Creative Plus 1.2 Petrol 7DCA Dark Edition,16537,Automatic (DCT),Petrol,1284990,Rs. 14.57 Lakh
+Tata,Nexon,2333,235,Creative Plus (S) 1.5 Diesel 6MT,15015,Manual,Diesel,1289990,Rs. 14.62 Lakh
+Tata,Nexon,2333,235,Creative Plus (S) 1.2 Petrol 7DCA Dual Tone,15009,Automatic (DCT),Petrol,1289990,Rs. 14.63 Lakh
+Tata,Nexon,2333,235,Creative 1.5 Diesel 6AMT Dark Edition,16555,Automatic (AMT),Diesel,1299990,Rs. 14.73 Lakh
+Tata,Nexon,2333,235,Creative Plus 1.5 Diesel 6MT Dark Edition,16561,Manual,Diesel,1304990,Rs. 14.78 Lakh
+Tata,Nexon,2333,235,Creative Plus (S) 1.5 Diesel 6MT Dual Tone,15017,Manual,Diesel,1309990,Rs. 14.84 Lakh
+Tata,Nexon,2333,235,Fearless Plus 1.2 Petrol 6MT,15117,Manual,Petrol,1309990,Rs. 14.85 Lakh
+Tata,Nexon,2333,235,Fearless Purple 1.2 Petrol 6MT,15097,Manual,Petrol,1309990,Rs. 14.85 Lakh
+Tata,Nexon,2333,235,Fearless (S) Purple 1.2 Petrol 6MT Dual Tone,15051,Manual,Petrol,1309990,Rs. 14.85 Lakh
+Tata,Nexon,2333,235,Fearless (S) 1.2 Petrol 6MT Dual Tone,15095,Manual,Petrol,1309990,Rs. 14.85 Lakh
+Tata,Nexon,2333,235,Creative Plus (S) 1.2 Petrol 7DCA Dark Edition,16545,Automatic (DCT),Petrol,1309990,Rs. 14.85 Lakh
+Tata,Nexon,2333,235,Creative Plus (S) 1.5 Diesel 6MT Dark Edition,16649,Manual,Diesel,1329990,Rs. 15.06 Lakh
+Tata,Nexon,2333,235,Creative Plus 1.5 Diesel 6AMT,15019,Automatic (AMT),Diesel,1329990,Rs. 15.06 Lakh
+Tata,Nexon,2333,235,Fearless Plus (S) 1.2 Petrol 6MT Dual Tone,15119,Manual,Petrol,1329990,Rs. 15.08 Lakh
+Tata,Nexon,2333,235,Creative Plus 1.5 Diesel 6AMT Dual Tone,15021,Automatic (AMT),Diesel,1339990,Rs. 15.17 Lakh
+Tata,Nexon,2333,235,Fearless Purple 1.2 Petrol 7DCA Dual Tone,15045,Automatic (DCT),Petrol,1349990,Rs. 15.30 Lakh
+Tata,Nexon,2333,235,Fearless 1.2 Petrol 7DCA Dual Tone,15093,Automatic (DCT),Petrol,1349990,Rs. 15.30 Lakh
+Tata,Nexon,2333,235,Fearless Plus 1.2 Petrol 7DCA DT,15121,Automatic (DCT),Petrol,1349990,Rs. 15.30 Lakh
+Tata,Nexon,2333,235,Creative Plus (S) 1.5 Diesel 6AMT,15023,Automatic (AMT),Diesel,1359990,Rs. 15.40 Lakh
+Tata,Nexon,2333,235,Fearless Purple 1.5 Diesel 6MT Dual Tone,15047,Manual,Diesel,1369990,Rs. 15.51 Lakh
+Tata,Nexon,2333,235,Fearless 1.5 Diesel 6MT Dual Tone,15031,Manual,Diesel,1369990,Rs. 15.51 Lakh
+Tata,Nexon,2333,235,Creative Plus 1.5 Diesel 6AMT Dark Edition,16557,Automatic (AMT),Diesel,1374990,Rs. 15.56 Lakh
+Tata,Nexon,2333,235,Creative Plus (S) 1.5 Diesel 6AMT Dual Tone,15025,Automatic (AMT),Diesel,1379990,Rs. 15.62 Lakh
+Tata,Nexon,2333,235,Fearless (S) 1.2 Petrol 6MT Dark Edition,16553,Manual,Petrol,1379990,Rs. 15.63 Lakh
+Tata,Nexon,2333,235,Fearless 1.2 Petrol 7DCA Dark Edition,16547,Automatic (DCT),Petrol,1384990,Rs. 15.69 Lakh
+Tata,Nexon,2333,235,Creative Plus (S) 1.5 Diesel 6AMT Dark Edition,16563,Automatic (AMT),Diesel,1399990,Rs. 15.84 Lakh
+Tata,Nexon,2333,235,Fearless 1.5 Diesel 6MT Dark Edition,16565,Manual,Diesel,1404990,Rs. 15.90 Lakh
+Tata,Nexon,2333,235,Fearless (S) Purple 1.2 Petrol 7DCA Dual Tone,15053,Automatic (DCT),Petrol,1429990,Rs. 16.19 Lakh
+Tata,Nexon,2333,235,Fearless Purple 1.5 Diesel 6AMT Dual Tone,15049,Automatic (AMT),Diesel,1439990,Rs. 16.29 Lakh
+Tata,Nexon,2333,235,Fearless 1.5 Diesel 6AMT Dual Tone,15033,Automatic (AMT),Diesel,1439990,Rs. 16.29 Lakh
+Tata,Nexon,2333,235,Fearless Plus 1.5 Diesel 6MT Dual Tone,15109,Manual,Diesel,1449990,Rs. 16.40 Lakh
+Tata,Nexon,2333,235,Fearless (S) 1.5 Diesel 6MT Dual Tone,15099,Manual,Diesel,1449990,Rs. 16.40 Lakh
+Tata,Nexon,2333,235,Fearless (S) Purple 1.5 Diesel 6MT Dual Tone,15055,Manual,Diesel,1449990,Rs. 16.40 Lakh
+Tata,Nexon,2333,235,Fearless Plus Purple 1.5 Diesel 6MT Dual Tone,15111,Manual,Diesel,1449990,Rs. 16.40 Lakh
+Tata,Nexon,2333,235,Fearless Plus (S) 1.2 Petrol 7DCA Dual Tone,15037,Automatic (DCT),Petrol,1449990,Rs. 16.42 Lakh
+Tata,Nexon,2333,235,Fearless Plus (S) Purple 1.2 Petrol 7DCA Dual Tone,14835,Automatic (DCT),Petrol,1449990,Rs. 16.42 Lakh
+Tata,Nexon,2333,235,Fearless Plus PS 1.2 iCNG,16425,Manual,CNG,1459000,Rs. 16.52 Lakh
+Tata,Nexon,2333,235,Fearless Plus (S) Purple 1.5 Diesel 6MT Dual Tone,14881,Manual,Diesel,1469990,Rs. 16.62 Lakh
+Tata,Nexon,2333,235,Fearless Plus (S) 1.5 Diesel 6MT Dual Tone,15039,Manual,Diesel,1469990,Rs. 16.62 Lakh
+Tata,Nexon,2333,235,Fearless Plus (S) 1.2 Petrol 7DCA Dark Edition,16549,Automatic (DCT),Petrol,1469990,Rs. 16.64 Lakh
+Tata,Nexon,2333,235,Fearless 1.5 Diesel 6AMT Dark Edition,16567,Automatic (AMT),Diesel,1474990,Rs. 16.68 Lakh
+Tata,Nexon,2333,235,Fearless Plus (S) Purple 1.2 Petrol 7DCA DT,15043,Automatic (DCT),Petrol,1479990,Rs. 16.75 Lakh
+Tata,Nexon,2333,235,Fearless Plus (S) 1.5 Diesel 6MT Dark Edition,16571,Manual,Diesel,1489990,Rs. 16.85 Lakh
+Tata,Nexon,2333,235,Fearless (S)1.5 Diesel 6AMT Dual Tone,15101,Automatic (AMT),Diesel,1509990,Rs. 17.34 Lakh
+Tata,Nexon,2333,235,Fearless (S) Purple 1.5 Diesel 6AMT Dual Tone,15057,Automatic (AMT),Diesel,1509990,Rs. 17.34 Lakh
+Tata,Nexon,2333,235,Fearless Plus 1.5 Diesel 6AMT Dual Tone,15113,Automatic (AMT),Diesel,1509990,Rs. 17.34 Lakh
+Tata,Nexon,2333,235,Fearless Plus Purple 1.5 Diesel 6AMT Dual Tone,15115,Automatic (AMT),Diesel,1509990,Rs. 17.34 Lakh
+Tata,Nexon,2333,235,Fearless Plus (S) 1.5 Diesel 6AMT Dual Tone,15041,Automatic (AMT),Diesel,1529990,Rs. 17.57 Lakh
+Tata,Nexon,2333,235,Fearless Plus (S) Purple 1.5 Diesel 6AMT Dual Tone,14885,Automatic (AMT),Diesel,1529990,Rs. 17.57 Lakh
+Tata,Nexon,2333,235,Fearless Plus (S) 1.5 Diesel 6AMT Dark Edition,16569,Automatic (AMT),Diesel,1549990,Rs. 17.79 Lakh
+Tata,Tiago,1250,235,XE,13777,Manual,Petrol,499900,Rs. 5.72 Lakh
+Tata,Tiago,1250,235,XM,16391,Manual,Petrol,569900,Rs. 6.51 Lakh
+Tata,Tiago,1250,235,XT (O),13779,Manual,Petrol,584900,Rs. 6.68 Lakh
+Tata,Tiago,1250,235,XE iCNG,13783,Manual,CNG,599900,Rs. 6.84 Lakh
+Tata,Tiago,1250,235,XT,13781,Manual,Petrol,599900,Rs. 6.84 Lakh
+Tata,Tiago,1250,235,XT Rhythm,13785,Manual,Petrol,639900,Rs. 7.28 Lakh
+Tata,Tiago,1250,235,XTA,13789,Automatic (AMT),Petrol,654900,Rs. 7.45 Lakh
+Tata,Tiago,1250,235,XM iCNG,13787,Manual,CNG,669900,Rs. 7.62 Lakh
+Tata,Tiago,1250,235,XZ Plus (O),16393,Manual,Petrol,679900,Rs. 7.73 Lakh
+Tata,Tiago,1250,235,XT iCNG,13795,Manual,CNG,699900,Rs. 7.95 Lakh
+Tata,Tiago,1250,235,XZ Plus,13791,Manual,Petrol,699900,Rs. 7.95 Lakh
+Tata,Tiago,1250,235,XZ Plus Dual Tone,13793,Manual,Petrol,709900,Rs. 8.06 Lakh
+Tata,Tiago,1250,235,XZA Plus (O),16395,Automatic (AMT),Petrol,734900,Rs. 8.33 Lakh
+Tata,Tiago,1250,235,XZA Plus,13797,Automatic (AMT),Petrol,754900,Rs. 8.56 Lakh
+Tata,Tiago,1250,235,XZA Plus Dual Tone,13799,Automatic (AMT),Petrol,764900,Rs. 8.67 Lakh
+Tata,Tiago,1250,235,XTA iCNG,16337,Automatic (AMT),CNG,764900,Rs. 8.67 Lakh
+Tata,Tiago,1250,235,XZ Plus iCNG,13801,Manual,CNG,799900,Rs. 9.05 Lakh
+Tata,Tiago,1250,235,XZ Plus iCNG Dual Tone,13803,Manual,CNG,809900,Rs. 9.19 Lakh
+Tata,Tiago,1250,235,XZA Plus iCNG,16339,Automatic (AMT),CNG,864900,Rs. 9.80 Lakh
+Tata,Tiago,1250,235,XZA Plus iCNG Dual Tone,16405,Automatic (AMT),CNG,874900,Rs. 9.91 Lakh
+Tata,Harrier,2241,235,Smart,12015,Manual,Diesel,1499000,Rs. 17.47 Lakh
+Tata,Harrier,2241,235,Smart (O),15471,Manual,Diesel,1549000,Rs. 18.38 Lakh
+Tata,Harrier,2241,235,Pure,12017,Manual,Diesel,1649000,Rs. 19.54 Lakh
+Tata,Harrier,2241,235,Pure (O),15473,Manual,Diesel,1699000,Rs. 20.12 Lakh
+Tata,Harrier,2241,235,Pure Plus,15401,Manual,Diesel,1819000,Rs. 21.51 Lakh
+Tata,Harrier,2241,235,Pure Plus (S),15475,Manual,Diesel,1849000,Rs. 21.86 Lakh
+Tata,Harrier,2241,235,Pure Plus (S) Dark Edition,15477,Manual,Diesel,1879000,Rs. 22.20 Lakh
+Tata,Harrier,2241,235,Pure Plus AT,15403,Automatic (TC),Diesel,1899000,Rs. 22.43 Lakh
+Tata,Harrier,2241,235,Adventure,12019,Manual,Diesel,1919000,Rs. 22.67 Lakh
+Tata,Harrier,2241,235,Pure Plus (S) AT,15479,Automatic (TC),Diesel,1949000,Rs. 23.01 Lakh
+Tata,Harrier,2241,235,Pure Plus (S) Dark Edition AT,15405,Automatic (TC),Diesel,1979000,Rs. 23.36 Lakh
+Tata,Harrier,2241,235,Adventure Plus,12021,Manual,Diesel,2069000,Rs. 24.40 Lakh
+Tata,Harrier,2241,235,Adventure Plus Dark Edition,12031,Manual,Diesel,2119000,Rs. 24.98 Lakh
+Tata,Harrier,2241,235,Adventure Plus A,12023,Manual,Diesel,2169000,Rs. 25.56 Lakh
+Tata,Harrier,2241,235,Adventure Plus AT,12025,Automatic (TC),Diesel,2209000,Rs. 26.02 Lakh
+Tata,Harrier,2241,235,Fearless Dual Tone,12027,Manual,Diesel,2249000,Rs. 26.49 Lakh
+Tata,Harrier,2241,235,Adventure Plus Dark Edition AT,12037,Automatic (TC),Diesel,2259000,Rs. 26.60 Lakh
+Tata,Harrier,2241,235,Fearless Dark Edition,12033,Manual,Diesel,2299000,Rs. 27.06 Lakh
+Tata,Harrier,2241,235,Adventure Plus A AT,15481,Automatic (TC),Diesel,2309000,Rs. 27.18 Lakh
+Tata,Harrier,2241,235,Fearless Dual Tone AT,12039,Automatic (TC),Diesel,2389000,Rs. 28.11 Lakh
+Tata,Harrier,2241,235,Fearless Plus Dual Tone,12029,Manual,Diesel,2399000,Rs. 28.22 Lakh
+Tata,Harrier,2241,235,Fearless Dark Edition AT,12043,Automatic (TC),Diesel,2439000,Rs. 28.69 Lakh
+Tata,Harrier,2241,235,Fearless Plus Dark Edition,12035,Manual,Diesel,2449000,Rs. 28.80 Lakh
+Tata,Harrier,2241,235,Fearless Plus Dual Tone AT,12041,Automatic (TC),Diesel,2539000,Rs. 29.84 Lakh
+Tata,Harrier,2241,235,Fearless Plus Dark Edition AT,15385,Automatic (TC),Diesel,2589000,Rs. 30.42 Lakh
+Tata,Safari,2219,235,Smart,12045,Manual,Diesel,1549000,Rs. 18.38 Lakh
+Tata,Safari,2219,235,Smart (O),15427,Manual,Diesel,1599000,Rs. 18.96 Lakh
+Tata,Safari,2219,235,Pure,12047,Manual,Diesel,1699000,Rs. 20.12 Lakh
+Tata,Safari,2219,235,Pure (O),15433,Manual,Diesel,1749000,Rs. 20.70 Lakh
+Tata,Safari,2219,235,Pure Plus,15407,Manual,Diesel,1869000,Rs. 22.09 Lakh
+Tata,Safari,2219,235,Pure Plus S,15435,Manual,Diesel,1899000,Rs. 22.43 Lakh
+Tata,Safari,2219,235,Pure Plus S Dark Edition,15439,Manual,Diesel,1929000,Rs. 22.78 Lakh
+Tata,Safari,2219,235,Pure Plus AT,15409,Automatic (TC),Diesel,1949000,Rs. 23.01 Lakh
+Tata,Safari,2219,235,Pure Plus S AT,15447,Automatic (TC),Diesel,1999000,Rs. 23.59 Lakh
+Tata,Safari,2219,235,Adventure,12049,Manual,Diesel,1999000,Rs. 23.59 Lakh
+Tata,Safari,2219,235,Pure Plus S Dark Edition AT,15411,Automatic (TC),Diesel,2029000,Rs. 23.94 Lakh
+Tata,Safari,2219,235,Adventure Plus,12051,Manual,Diesel,2149000,Rs. 25.33 Lakh
+Tata,Safari,2219,235,Adventure Plus Dark Edition,12061,Manual,Diesel,2199000,Rs. 25.91 Lakh
+Tata,Safari,2219,235,Adventure Plus A,12053,Manual,Diesel,2249000,Rs. 26.49 Lakh
+Tata,Safari,2219,235,Adventure Plus AT,12055,Automatic (TC),Diesel,2289000,Rs. 26.95 Lakh
+Tata,Safari,2219,235,Adventure Plus Dark Edition AT,15379,Automatic (TC),Diesel,2339000,Rs. 27.53 Lakh
+Tata,Safari,2219,235,Accomplished Dual Tone,12057,Manual,Diesel,2349000,Rs. 27.64 Lakh
+Tata,Safari,2219,235,Accomplished Dark Edition,12063,Manual,Diesel,2379000,Rs. 27.99 Lakh
+Tata,Safari,2219,235,Adventure Plus A AT,15449,Automatic (TC),Diesel,2389000,Rs. 28.11 Lakh
+Tata,Safari,2219,235,Accomplished Dual Tone AT,15375,Automatic (TC),Diesel,2489000,Rs. 29.26 Lakh
+Tata,Safari,2219,235,Accomplished Plus Dual Tone,12059,Manual,Diesel,2499000,Rs. 29.38 Lakh
+Tata,Safari,2219,235,Accomplished Plus 6 STR Dual Tone,15441,Manual,Diesel,2509000,Rs. 29.50 Lakh
+Tata,Safari,2219,235,Accomplished Dark Edition AT,15381,Automatic (TC),Diesel,2519000,Rs. 29.61 Lakh
+Tata,Safari,2219,235,Accomplished Plus Dark Edition,15361,Manual,Diesel,2529000,Rs. 29.73 Lakh
+Tata,Safari,2219,235,Accomplished Plus 6 STR Dark Edition,15443,Manual,Diesel,2539000,Rs. 29.84 Lakh
+Tata,Safari,2219,235,Accomplished Plus Dual Tone AT,15377,Automatic (TC),Diesel,2639000,Rs. 31.00 Lakh
+Tata,Safari,2219,235,Accomplished Plus 6 STR Dual Tone AT,15453,Automatic (TC),Diesel,2649000,Rs. 31.12 Lakh
+Tata,Safari,2219,235,Accomplished Plus Dark Edition AT,15383,Automatic (TC),Diesel,2669000,Rs. 31.35 Lakh
+Tata,Safari,2219,235,Accomplished Plus 6 STR Dark Edition AT,15455,Automatic (TC),Diesel,2679000,Rs. 31.46 Lakh
+Tata,Altroz,1151,235,XE Petrol,13705,Manual,Petrol,649900,Rs. 7.40 Lakh
+Tata,Altroz,1151,235,XM Petrol,14509,Manual,Petrol,674900,Rs. 7.67 Lakh
+Tata,Altroz,1151,235,XM (S) Petrol,14511,Manual,Petrol,699900,Rs. 7.95 Lakh
+Tata,Altroz,1151,235,XM Plus Petrol,13709,Manual,Petrol,739900,Rs. 8.39 Lakh
+Tata,Altroz,1151,235,XE iCNG,11917,Manual,CNG,744900,Rs. 8.45 Lakh
+Tata,Altroz,1151,235,XM Plus (S),14237,Manual,Petrol,774900,Rs. 8.78 Lakh
+Tata,Altroz,1151,235,XT Petrol,13711,Manual,Petrol,799900,Rs. 9.05 Lakh
+Tata,Altroz,1151,235,XM Plus iCNG,13839,Manual,CNG,824900,Rs. 9.36 Lakh
+Tata,Altroz,1151,235,XMA Plus Petrol,13719,Automatic (DCT),Petrol,839900,Rs. 9.53 Lakh
+Tata,Altroz,1151,235,XZ Petrol,13717,Manual,Petrol,849900,Rs. 9.64 Lakh
+Tata,Altroz,1151,235,XM Plus (S) iCNG,13841,Manual,CNG,859900,Rs. 9.75 Lakh
+Tata,Altroz,1151,235,XM Plus Diesel,13749,Manual,Diesel,869900,Rs. 9.85 Lakh
+Tata,Altroz,1151,235,XMA Plus (S),14239,Automatic (DCT),Petrol,874900,Rs. 9.91 Lakh
+Tata,Altroz,1151,235,XZ LUX,17499,Manual,Petrol,889900,Rs. 10.08 Lakh
+Tata,Altroz,1151,235,XTA Petrol,13723,Automatic (DCT),Petrol,899900,Rs. 10.19 Lakh
+Tata,Altroz,1151,235,XZ Plus (S),14241,Manual,Petrol,899990,Rs. 10.19 Lakh
+Tata,Altroz,1151,235,XM Plus (S) Diesel,14257,Manual,Diesel,904900,Rs. 10.23 Lakh
+Tata,Altroz,1151,235,XZ i-Turbo Petrol,13725,Manual,Petrol,919900,Rs. 10.41 Lakh
+Tata,Altroz,1151,235,XT Diesel,13729,Manual,Diesel,929900,Rs. 10.51 Lakh
+Tata,Altroz,1151,235,XZ Plus (S) Dark Edition,14243,Manual,Petrol,939990,Rs. 10.63 Lakh
+Tata,Altroz,1151,235,Racer R1,11943,Manual,Petrol,949000,Rs. 10.73 Lakh
+Tata,Altroz,1151,235,XZ iCNG,13843,Manual,CNG,949900,Rs. 10.74 Lakh
+Tata,Altroz,1151,235,XZ Plus (S) LUX,17501,Manual,Petrol,954990,Rs. 10.80 Lakh
+Tata,Altroz,1151,235,XZA Petrol,13735,Automatic (DCT),Petrol,959900,Rs. 10.85 Lakh
+Tata,Altroz,1151,235,XZ Plus i-Turbo (S),14253,Manual,Petrol,969990,Rs. 10.96 Lakh
+Tata,Altroz,1151,235,XZ Diesel,13737,Manual,Diesel,979900,Rs. 11.06 Lakh
+Tata,Altroz,1151,235,XZ Plus (O) (S),14245,Manual,Petrol,979900,Rs. 11.07 Lakh
+Tata,Altroz,1151,235,XZ Plus (S) Lux Dark Edition Petrol,17991,Manual,Petrol,979990,Rs. 11.07 Lakh
+Tata,Altroz,1151,235,XZ Lux CNG,17999,Manual,CNG,989900,Rs. 11.18 Lakh
+Tata,Altroz,1151,235,XZA Lux Petrol,17993,Automatic (DCT),Petrol,999900,Rs. 11.29 Lakh
+Tata,Altroz,1151,235,XZ Plus (S) iCNG,13845,Manual,CNG,999990,Rs. 11.30 Lakh
+Tata,Altroz,1151,235,XZA Plus (S),14247,Automatic (DCT),Petrol,999990,Rs. 11.30 Lakh
+Tata,Altroz,1151,235,XZ Plus i-Turbo (S) Dark Edition,14255,Manual,Petrol,1009990,Rs. 11.51 Lakh
+Tata,Altroz,1151,235,XZ LUX Diesel,18003,Manual,Diesel,1019900,Rs. 11.61 Lakh
+Tata,Altroz,1151,235,XZ Plus (S) Diesel,14259,Manual,Diesel,1029990,Rs. 11.72 Lakh
+Tata,Altroz,1151,235,XZA Plus (S) Dark Edition,14249,Automatic (DCT),Petrol,1029990,Rs. 11.73 Lakh
+Tata,Altroz,1151,235,Racer R2,17421,Manual,Petrol,1049000,Rs. 11.94 Lakh
+Tata,Altroz,1151,235,XZ Plus (S) Lux CNG,18001,Manual,CNG,1054990,Rs. 12.01 Lakh
+Tata,Altroz,1151,235,XZA Plus (S) Lux Petrol,17995,Automatic (DCT),Petrol,1054990,Rs. 12.01 Lakh
+Tata,Altroz,1151,235,XZ Plus (S) Dark Edition Diesel,14261,Manual,Diesel,1069990,Rs. 12.16 Lakh
+Tata,Altroz,1151,235,XZA Plus (S) Lux Dark Edition Petrol,17997,Automatic (DCT),Petrol,1075990,Rs. 12.24 Lakh
+Tata,Altroz,1151,235,XZA Plus (O) (S),14251,Automatic (DCT),Petrol,1079900,Rs. 12.29 Lakh
+Tata,Altroz,1151,235,XZ Plus (O) (S) iCNG,13847,Manual,CNG,1079900,Rs. 12.29 Lakh
+Tata,Altroz,1151,235,XZ Plus (S) LUX Diesel,18005,Manual,Diesel,1084990,Rs. 12.33 Lakh
+Tata,Altroz,1151,235,Racer R3,17423,Manual,Petrol,1099000,Rs. 12.50 Lakh
+Tata,Tigor,1277,235,XE,13815,Manual,Petrol,599900,Rs. 6.84 Lakh
+Tata,Tigor,1277,235,XM,13817,Manual,Petrol,659900,Rs. 7.51 Lakh
+Tata,Tigor,1277,235,XMA,13821,Automatic (AMT),Petrol,719900,Rs. 8.17 Lakh
+Tata,Tigor,1277,235,XZ,13819,Manual,Petrol,729900,Rs. 8.28 Lakh
+Tata,Tigor,1277,235,XM iCNG,13823,Manual,CNG,759900,Rs. 8.61 Lakh
+Tata,Tigor,1277,235,XZ Plus,13825,Manual,Petrol,779900,Rs. 8.83 Lakh
+Tata,Tigor,1277,235,XZ iCNG,13829,Manual,CNG,824900,Rs. 9.36 Lakh
+Tata,Tigor,1277,235,XZA Plus,13831,Automatic (AMT),Petrol,839900,Rs. 9.53 Lakh
+Tata,Tigor,1277,235,XZA iCNG,16343,Automatic (AMT),CNG,869900,Rs. 9.86 Lakh
+Tata,Tigor,1277,235,XZ Plus iCNG,13835,Manual,CNG,879900,Rs. 9.97 Lakh
+Tata,Tigor,1277,235,XZA Plus iCNG,16345,Automatic (AMT),CNG,939900,Rs. 10.63 Lakh
+Tata,Tiago EV,1266,235,XE Medium Range,9161,Automatic,Electric,799000,Rs. 8.41 Lakh
+Tata,Tiago EV,1266,235,XT Medium Range,11057,Automatic,Electric,899000,Rs. 10.38 Lakh
+Tata,Tiago EV,1266,235,XT Long Range,11059,Automatic,Electric,999000,Rs. 11.51 Lakh
+Tata,Tiago EV,1266,235,XZ Plus Long Range,11061,Automatic,Electric,1049000,Rs. 12.18 Lakh
+Tata,Tiago EV,1266,235,XZ Plus Long Range Fast Charger,11065,Automatic,Electric,1099000,Rs. 12.75 Lakh
+Tata,Tiago EV,1266,235,XZ Plus Tech LUX Long Range,11063,Automatic,Electric,1099000,Rs. 12.75 Lakh
+Tata,Tiago EV,1266,235,XZ Plus Tech LUX Long Range Fast Charger,11067,Automatic,Electric,1149000,Rs. 13.33 Lakh
+Tata,Punch EV,2495,235,Smart 3.3,16089,Automatic,Electric,999000,Rs. 11.51 Lakh
+Tata,Punch EV,2495,235,Smart Plus 3.3,16087,Automatic,Electric,1099000,Rs. 12.75 Lakh
+Tata,Punch EV,2495,235,Adventure 3.3,16085,Automatic,Electric,1169000,Rs. 13.55 Lakh
+Tata,Punch EV,2495,235,Adventure (S) 3.3,16083,Automatic,Electric,1199000,Rs. 13.90 Lakh
+Tata,Punch EV,2495,235,Empowered 3.3,16081,Automatic,Electric,1249000,Rs. 14.47 Lakh
+Tata,Punch EV,2495,235,Empowered (S) 3.3,16079,Automatic,Electric,1269000,Rs. 14.70 Lakh
+Tata,Punch EV,2495,235,Empowered Plus 3.3,16077,Automatic,Electric,1269000,Rs. 14.70 Lakh
+Tata,Punch EV,2495,235,Adventure Long Range 3.3,16073,Automatic,Electric,1269000,Rs. 14.76 Lakh
+Tata,Punch EV,2495,235,Empowered Plus S 3.3,16075,Automatic,Electric,1299000,Rs. 15.04 Lakh
+Tata,Punch EV,2495,235,Adventure (S) Long Range 3.3,16069,Automatic,Electric,1299000,Rs. 15.11 Lakh
+Tata,Punch EV,2495,235,Adventure Long Range 7.2 Fast Charger,16071,Automatic,Electric,1319000,Rs. 15.34 Lakh
+Tata,Punch EV,2495,235,Empowered Long Range 3.3,16065,Automatic,Electric,1329000,Rs. 15.45 Lakh
+Tata,Punch EV,2495,235,Empowered Plus Long Range 3.3,16057,Automatic,Electric,1349000,Rs. 15.68 Lakh
+Tata,Punch EV,2495,235,Empowered S Long Range 3.3,16061,Automatic,Electric,1349000,Rs. 15.68 Lakh
+Tata,Punch EV,2495,235,Adventure (S) Long Range 7.2 Fast Charger,16067,Automatic,Electric,1349000,Rs. 15.68 Lakh
+Tata,Punch EV,2495,235,Empowered Long Range 7.2 Fast Charger,16063,Automatic,Electric,1379000,Rs. 16.02 Lakh
+Tata,Punch EV,2495,235,Empowered Plus Long Range 7.2 Fast Charger,16055,Automatic,Electric,1399000,Rs. 16.25 Lakh
+Tata,Punch EV,2495,235,Empowered Plus S Long Range 3.3,16053,Automatic,Electric,1399000,Rs. 16.25 Lakh
+Tata,Punch EV,2495,235,Empowered S Long Range 7.2 Fast Charger,16059,Automatic,Electric,1399000,Rs. 16.25 Lakh
+Tata,Punch EV,2495,235,Empowered Plus S long Range 7.2 Fast Charger,16051,Automatic,Electric,1429000,Rs. 16.60 Lakh
+Tata,Curvv EV,1837,235,Creative 45,17755,Automatic,Electric,1749000,Rs. 18.55 Lakh
+Tata,Curvv EV,1837,235,Accomplished 45,17819,Automatic,Electric,1849000,Rs. 19.60 Lakh
+Tata,Curvv EV,1837,235,Accomplished 55,17823,Automatic,Electric,1925000,Rs. 20.39 Lakh
+Tata,Curvv EV,1837,235,Accomplished Plus S 45,17821,Automatic,Electric,1929000,Rs. 20.44 Lakh
+Tata,Curvv EV,1837,235,Accomplished Plus S 55,17825,Automatic,Electric,1999000,Rs. 21.17 Lakh
+Tata,Curvv EV,1837,235,Empowered Plus 55,17827,Automatic,Electric,2125000,Rs. 22.49 Lakh
+Tata,Curvv EV,1837,235,Empowered Plus A 55,17829,Automatic,Electric,2199000,Rs. 23.26 Lakh
+Tata,Nexon EV,2503,235,Creative Plus Medium Range,14895,Automatic,Electric,1249000,Rs. 14.47 Lakh
+Tata,Nexon EV,2503,235,Fearless Medium Range,14909,Automatic,Electric,1329000,Rs. 15.39 Lakh
+Tata,Nexon EV,2503,235,Fearless Plus Medium Range,14913,Automatic,Electric,1379000,Rs. 15.96 Lakh
+Tata,Nexon EV,2503,235,Fearless Plus Long Range,14915,Automatic,Electric,1509000,Rs. 16.04 Lakh
+Tata,Nexon EV,2503,235,Creative 45,18457,Automatic,Electric,1399000,Rs. 16.25 Lakh
+Tata,Nexon EV,2503,235,Fearless Plus (S) Long Range,14919,Automatic,Electric,1529000,Rs. 16.25 Lakh
+Tata,Nexon EV,2503,235,Fearless Plus (S) Medium Range,14917,Automatic,Electric,1429000,Rs. 16.53 Lakh
+Tata,Nexon EV,2503,235,Fearless Long Range,14911,Automatic,Electric,1459000,Rs. 16.94 Lakh
+Tata,Nexon EV,2503,235,Empowered 45,18461,Automatic,Electric,1599000,Rs. 16.99 Lakh
+Tata,Nexon EV,2503,235,Empowered Medium Range,14921,Automatic,Electric,1479000,Rs. 17.10 Lakh
+Tata,Nexon EV,2503,235,Empowered Plus Long Range,14923,Automatic,Electric,1629000,Rs. 17.30 Lakh
+Tata,Nexon EV,2503,235,Fearless 45,18459,Automatic,Electric,1499000,Rs. 17.40 Lakh
+Tata,Nexon EV,2503,235,Empowered Plus Long Range Dark Edition,16505,Automatic,Electric,1649000,Rs. 17.51 Lakh
+Tata,Nexon EV,2503,235,Empowered Plus 45,18463,Automatic,Electric,1699000,Rs. 18.03 Lakh
+Tata,Nexon EV,2503,235,Empowered Plus 45 Red Dark Edition,18465,Automatic,Electric,1719000,Rs. 18.24 Lakh
+Tata,Tiago NRG,1601,235,XT MT,13805,Manual,Petrol,649900,Rs. 7.40 Lakh
+Tata,Tiago NRG,1601,235,XZ MT,13807,Manual,Petrol,699900,Rs. 7.95 Lakh
+Tata,Tiago NRG,1601,235,XT iCNG,13809,Manual,CNG,749900,Rs. 8.50 Lakh
+Tata,Tiago NRG,1601,235,XZ AMT,13811,Automatic (AMT),Petrol,754900,Rs. 8.56 Lakh
+Tata,Tiago NRG,1601,235,XZ iCNG,13813,Manual,CNG,799900,Rs. 9.05 Lakh
+Tata,Tiago NRG,1601,235,XZA iCNG,16341,Automatic (AMT),CNG,864900,Rs. 9.80 Lakh
+Tata,Tigor EV,2167,235,XE,11281,Automatic,Electric,0,Rs. 12.49 Lakh
+Tata,Tigor EV,2167,235,XT,11283,Automatic,Electric,0,Rs. 12.99 Lakh
+Tata,Tigor EV,2167,235,XZ Plus,11285,Automatic,Electric,0,Rs. 13.49 Lakh
+Tata,Tigor EV,2167,235,XZ Plus LUX,11287,Automatic,Electric,0,Rs. 13.75 Lakh
