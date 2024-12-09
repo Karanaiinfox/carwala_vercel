@@ -237,10 +237,9 @@ def fetch_brands():
 
 from flask import send_from_directory
 
-@app.route('/download_file/<path:filename>', methods=['GET'])
+@app.route('/download_file/<filename>', methods=['GET'])
 def download_file(filename):
-    static_folder = os.path.join(os.getcwd(), 'static')
-    return send_from_directory(static_folder, filename, as_attachment=True)
+    return send_from_directory('/tmp', filename, as_attachment=True)
 
 
 
@@ -264,9 +263,9 @@ def fetch_models():
             final_df = pd.concat(all_models_data, ignore_index=True)
 
             # Ensure the static folder exists
-            static_folder = os.path.join(os.getcwd(), 'static')
-            if not os.path.exists(static_folder):
-                os.makedirs(static_folder)
+            # static_folder = os.path.join(os.getcwd(), 'static')
+            # if not os.path.exists(static_folder):
+            #     os.makedirs(static_folder)
 
             # file_path = os.path.join(static_folder, 'all_models_with_variants.csv')
             # final_df.to_csv(file_path, index=False)

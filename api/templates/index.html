@@ -35,7 +35,9 @@
         <div id="results" class="mt-4" style="display: none;">
             <div class="d-flex justify-content-between align-items-center">
                 <h2>Fetched Data:</h2>
+               
                 <button id="downloadButton" class="btn btn-outline-primary" style="display: none;">Download CSV</button>
+
             </div>
             <div class="table-responsive mt-3">
                 <input type="text" id="tableSearch" class="form-control mb-2" placeholder="Search in table...">
@@ -154,7 +156,7 @@
                     // Update download button
                     const downloadButton = document.getElementById('downloadButton');
                     downloadButton.style.display = 'block';
-                    downloadButton.setAttribute('onclick', `window.location.href='${result.file_path}'`);
+                   
                 } else {
                     alert(result.message);
                 }
@@ -181,7 +183,36 @@
             const tbody = table.querySelector('tbody');
             tbody.innerHTML = '';
             sortedRows.forEach(row => tbody.appendChild(row));
+        
+        
+        
         }
+        // Generate CSV from table data
+        function downloadCSV() {
+            const table = document.getElementById('dataPreview');
+            const rows = Array.from(table.rows);
+            const csvContent = rows.map(row => {
+                const cells = Array.from(row.cells);
+                return cells.map(cell => cell.textContent.trim()).join(',');
+            }).join('\n');
+
+            // Create a Blob with the CSV content
+            const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
+
+            // Create a download link
+            const link = document.createElement('a');
+            link.href = URL.createObjectURL(blob);
+            link.download = 'carwale_data.csv';
+            link.style.display = 'none';
+
+            // Append the link to the document and click it programmatically
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+        }
+
+        // Update the download button to use the new function
+        document.getElementById('downloadButton').addEventListener('click', downloadCSV);
     </script>
 </body>
 </html>
