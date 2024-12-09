@@ -212,8 +212,7 @@ def main():
         final_df = pd.concat(all_models_data, ignore_index=True)
         print(final_df)
 
-        final_df.to_csv("all_models_with_variants.csv", index=False)
-        print("Model and variant data saved to 'all_models_with_variants.csv'")
+      
     else:
         print("No data to save.")
 
@@ -228,10 +227,10 @@ def index():
 
 @app.route('/fetch_brands', methods=['POST'])
 def fetch_brands():
-    try:
+    if True:
         brand_names = get_brand_names()
         return jsonify({'success': True, 'brands': brand_names})
-    except Exception as e:
+    else: # Exception as e:
         return jsonify({'success': False, 'message': str(e)})
 
 
@@ -270,7 +269,7 @@ def fetch_models():
 
             return jsonify({
                 'success': True,
-                'file_path': f'/download_file/all_models_with_variants.csv',
+                'file_path': f'',
                 'data': final_df.to_dict(orient='records')  # Return data for preview
             })
         else:
