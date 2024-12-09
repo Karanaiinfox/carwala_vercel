@@ -269,7 +269,7 @@ def fetch_models():
                 os.makedirs(static_folder)
 
             file_path = os.path.join(static_folder, 'all_models_with_variants.csv')
-            final_df.to_csv(file_path, index=False)
+            # final_df.to_csv(file_path, index=False)
 
             return jsonify({
                 'success': True,
@@ -282,3 +282,5 @@ def fetch_models():
     except Exception as e:
         return jsonify({'success': False, 'message': str(e)})
 
+if __name__ == '__main__':
+    app.run(debug=True)
