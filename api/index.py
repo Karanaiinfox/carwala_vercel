@@ -15,6 +15,7 @@ import time
 from random import randint
 
 BASE_URL = "https://www.carwale.com/api/makepagedata/"
+BASE_URL_Model = "https://www.carwale.com/api/modelpagedata/"
 VERSION_URL = "https://www.carwale.com/api/v3/versions/"
 
 from selenium import webdriver
@@ -23,46 +24,103 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
 import time
-
+import urllib.parse
 
 
 def get_brand_names():
     # Set up Chrome options
-    chrome_options = Options()
-    chrome_options.add_argument('--headless')
-    chrome_options.add_argument('--no-sandbox')
-    chrome_options.add_argument('--disable-dev-shm-usage')
+    # chrome_options = Options()
+    # chrome_options.add_argument('--headless')
+    # chrome_options.add_argument('--no-sandbox')
+    # chrome_options.add_argument('--disable-dev-shm-usage')
 
-    # Set up the WebDriver
-    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
-    print(driver,'driver')
-    if True:
-        # Navigate to the website
-        url = 'https://www.carwale.com/'  # Replace with actual URL
-        driver.get(url)
+    # # Set up the WebDriver
+    # service = Service(ChromeDriverManager().install())
+    # driver = webdriver.Chrome(service=service, options=chrome_options)
+    # print(driver,'driver')
+    # if True:
+    #     # Navigate to the website
+    #     url = 'https://www.carwale.com/' 
 
-        # Wait for the page to load
-        driver.implicitly_wait(10)
+    #     # Wait for the page to load
+    #     driver.implicitly_wait(10)
 
-        # Locate and click "View More Brands" button (retry logic included)
-        retries = 3
-        for _ in range(retries):
-            try:
-                view_more_button = driver.find_element(By.CSS_SELECTOR, 'div[aria-label="View More Brands"]')
-                view_more_button.click()
-                time.sleep(2)  # Wait for expanded content to load
-                break
-            except Exception:
-                time.sleep(2)
+    #     # Locate and click "View More Brands" button (retry logic included)
+    #     retries = 3
+    #     for _ in range(retries):
+    #         try:
+    #             view_more_button = driver.find_element(By.CSS_SELECTOR, 'div[aria-label="View More Brands"]')
+    #             view_more_button.click()
+    #             time.sleep(2)  # Wait for expanded content to load
+    #             break
+    #         except Exception:
+    #             time.sleep(2)
 
-        # Extract brand names
-        brand_list = driver.find_elements(By.CSS_SELECTOR, "div.o-bqHweY > div > ul > li")
-        brand_names = [brand.text.strip() for brand in brand_list if brand.text.strip()]
+    #     # Extract brand names
+    #     brand_list = driver.find_elements(By.CSS_SELECTOR, "div.o-bqHweY > div > ul > li")
+    #     brand_names = [brand.text.strip() for brand in brand_list if brand.text.strip()]
+        brand_names = ['Maruti Suzuki', 'Mahindra', 'Tata', 'Toyota', 'BMW', 'Hyundai', 'Mercedes-Benz', 'Kia', 'Audi', 'Skoda', 'MG', 'Land Rover', 'Porsche', 'Lamborghini', 'Volvo', 'Honda', 'Citroen', 'Volkswagen', 'Ferrari', 'Renault', 'Lexus', 'Maserati', 'Jeep', 'Jaguar', 'Rolls-Royce', 'BYD', 'MINI', 'Nissan', 'Aston Martin', 'McLaren', 'Isuzu', 'VinFast', 'Force Motors', 'Bentley', 'Tesla', 'Lotus', 'Fisker', 'Pravaig', 'OLA', 'Leapmotor']
         return brand_names
     # except:
     # finally:
     #     driver.quit()
-import urllib.parse
+
+
+def extract_engine(brand_name, model_name, city_id, platform_id=1, retries=3):
+    print("Initial Brand Name:", brand_name)
+    if " " in brand_name:   
+        brand_name= brand_name.replace(" ","-")
+    print("Model Masking Name:", model_name)
+    if " " in model_name:   
+        model_name= model_name.replace(" ","-")
+    brand_name=brand_name.lower()
+    model_name=model_name.lower()
+    
+
+    
+    params = {
+        "makeMaskingName": brand_name,
+        "modelMaskingName": model_name,
+        "cityId": city_id,
+        "areaId": -1,
+        "showOfferUpfront": "false",
+        "platformId": platform_id
+    }
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    }
+    
+    attempt = 0
+    while attempt < retries:
+        try:
+            # Send GET request
+            response = requests.get(BASE_URL_Model, headers=headers, params=params)
+            response.raise_for_status()  # Raise an exception for HTTP errors
+
+            # Print the response JSON
+            responses = response.json()
+            # print ("aaaaaaaaaaaa",responses)
+            # print(responses.get('keySpecs'))
+            result = responses.get('keySpecs')[1]['keySpecsValue'][0]['text']
+            # print(responses.get('keySpecs')[1]['keySpecsValue'][0]['text'])
+            if 'cc' not in result:
+                result=responses.get('keySpecs')[2]['keySpecsValue'][0]['text']
+            if 'cc' not in result:
+                result=responses.get('keySpecs')[3]['keySpecsValue'][0]['text']
+            if 'cc' not in result:
+                result='N/A'
+            return result
+
+        except requests.exceptions.RequestException as e:
+            attempt += 1
+            # print(f"Attempt {attempt} failed for brand '{brand_name}' and model '{modelMaskingName}': {e}")
+            if attempt < retries:
+                wait_time = randint(1, 3)
+                print(f"Retrying in {wait_time} seconds...")
+                time.sleep(wait_time)
+            else:
+                print(f"Failed to fetch data after {retries} attempts.")
+                return None
 
 
 def fetch_model_data(brand_name, city_id, platform_id=1, retries=3):
@@ -83,10 +141,11 @@ def fetch_model_data(brand_name, city_id, platform_id=1, retries=3):
         try:
             response = requests.get(BASE_URL, headers=headers, params=params)
             response.raise_for_status()
+            print("response_of_fetching_model_makepagedata",response.json())
             return response.json()
         except requests.exceptions.RequestException as e:
             attempt += 1
-            print(f"Attempt {attempt} failed for brand '{brand_name}': {e}")
+            # print(f"Attempt {attempt} failed for brand '{brand_name}': {e}")
             if attempt < retries:
                 wait_time = randint(1, 3)
                 print(f"Retrying in {wait_time} seconds...")
@@ -106,6 +165,7 @@ def fetch_model_data(brand_name, city_id, platform_id=1, retries=3):
 
     print(f"Failed to fetch data after {retries} attempts.")
     return None
+
 def fetch_variant_data(model_id, city_id, retries=5):
     params = {
         "modelId": model_id,
@@ -135,17 +195,26 @@ def fetch_variant_data(model_id, city_id, retries=5):
                 print(f"Failed to fetch variant data after {retries} attempts for model ID '{model_id}'.")
                 return None
 
+
+
+
 def extract_models_to_df(brand_name, brand_data, city_id):
     city_mapping = {
         1: "Mumbai",
         105: "Bangalore"
     }
     city_name = city_mapping.get(city_id, f"{city_id}")  # Default to City ID if no mapping is found
+    # print("brand_name",brand_name)
+    # print("brand_data",brand_data)
 
     if 'models' in brand_data:
         models = []
         for model in brand_data['models']:
+            # print("wwwwwwwwwwwwwwwwwwwww",model)
             model_name = model.get('offerDetails', {}).get('ModelName', None)
+            # print("dddddddddddddd",model_name)
+            model_masking_name=model.get('modelMaskingName')
+            # print("kfjdelkf",model_masking_name)
             model_id = model.get('modelId', None)
             model_price = model.get('offerDetails', {}).get('formattedPrice', None)
             model_features = model.get('offerDetails', {}).get('priceLabel', None)
@@ -153,7 +222,9 @@ def extract_models_to_df(brand_name, brand_data, city_id):
                 # Fetch variants for the current model
                 variant_data = fetch_variant_data(model_id, city_id)
                 variants = []
+                
                 for variant in variant_data.get('variants', []):
+                    engine_data= extract_engine(brand_name,model_masking_name,city_id)
                     version_name = variant.get('versionName', None)
                     version_id = variant.get('versionId', None)
                     transmission = next((spec['value'] for spec in variant.get('specsSummary', []) if spec['itemName'] == 'Transmission Type'), None)
@@ -173,12 +244,14 @@ def extract_models_to_df(brand_name, brand_data, city_id):
                             'Fuel Type': fuel_type,
                             'Ex-Showroom Price':exshowroomprice,
                             'On-Road Price': price,
+                            'cc':engine_data
                         })
 
                 if variants:
                     models.extend(variants)
 
         df = pd.DataFrame(models)
+        print("___**",df)
         return df
     else:
         print(f"No models data found for brand '{brand_name}'.")
@@ -197,6 +270,7 @@ def main():
     for brand_name in brand_names:
         print(f"Fetching data for brand: {brand_name}")
         brand_data = fetch_model_data(brand_name, city_id=int(city_id))
+        #Loop 
         print(f"Data fetched for {brand_name}: {brand_data}")
         if brand_data:
             df = extract_models_to_df(brand_name, brand_data, city_id=int(city_id))
@@ -218,7 +292,6 @@ def main():
 
 
 
-
 app = Flask(__name__)
 
 @app.route('/')
@@ -232,14 +305,6 @@ def fetch_brands():
         return jsonify({'success': True, 'brands': brand_names})
     else: # Exception as e:
         return jsonify({'success': False, 'message': str(e)})
-
-
-from flask import send_from_directory
-
-
-
-
-
 
 @app.route('/fetch_models', methods=['POST'])
 def fetch_models():
@@ -266,6 +331,11 @@ def fetch_models():
 
             # file_path = os.path.join(static_folder, 'all_models_with_variants.csv')
             # final_df.to_csv(file_path, index=False)
+            print({
+                'success': True,
+                'file_path': f'',
+                'data': final_df.to_dict(orient='records')  # Return data for preview
+            })
 
             return jsonify({
                 'success': True,
@@ -280,3 +350,12 @@ def fetch_models():
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=8000)
+
+
+
+
+
+
+
+
+

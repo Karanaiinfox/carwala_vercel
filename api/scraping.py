@@ -11,6 +11,7 @@ import time
 from random import randint
 
 BASE_URL = "https://www.carwale.com/api/makepagedata/"
+BASE_URL_Model = "https://www.carwale.com/api/modelpagedata/"
 VERSION_URL = "https://www.carwale.com/api/v3/versions/"
 
 from selenium import webdriver
@@ -19,6 +20,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
 import time
+
 
 def get_brand_names():
     # Set up Chrome options
@@ -100,6 +102,7 @@ def fetch_model_data(brand_name, city_id, platform_id=1, retries=3):
 
     print(f"Failed to fetch data after {retries} attempts.")
     return None
+
 def fetch_variant_data(model_id, city_id, retries=5):
     params = {
         "modelId": model_id,
